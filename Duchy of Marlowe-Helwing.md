@@ -73,10 +73,15 @@ River travel dominates trade and communication, binding the duchy together even 
 
 ##### **Other Towns & Holdings**
 
-**Stonecross**
-
+###### **Stonecross**
 - **Population:** ~4,000
 - **Geographical Position:** Western ridges, at the junction of two old military roads
 - **Role:** Garrison town, road control, mustering point
-- **Willowreach:** ~3,500 (river fishing and reeds)
-- **Villages & hamlets:** ~30,000 combined
+###### **Willowreach**
+- **Population:** ~3,500
+- **Geographical Position:** Central lowlands, downstream from Highford along slow-moving river bends
+- **Role:** Fishing, reeds, rivercraft, barge maintenance
+###### **Villages & Hamlets**
+- **Population:** ~30,000 combined
+- **Geographical Position:** Scattered throughout the Helwing Lowlands and along minor river tributaries
+- **Notes:** Many have absorbed refugees or been abandoned entirely, depending on proximity to marshland and trade routes.
