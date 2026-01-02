@@ -42,18 +42,18 @@ River travel dominates trade and communication, binding the duchy together even 
 
 **Seat of the Duke**
 
--  **Population:** ~5,000
-- **Geographical Position:** Western ridges, south of Highford, overlooking the old stone road into the inner duchies
+- **Population:** ~5,000
+- **Geographical Position:** [[Western ridges]], south of [[Highford]], overlooking the old stone road into the inner duchies
 - **Role:** Ducal residence, high courts, archives, noble estates
-    
-- **Notes:** Built on defensible high ground, Helwing Hold commands road access rather than river trade. Its separation from Highford reflects an older model of rule, where authority was projected outward rather than embedded in commerce.
+- **Notes:** Built on defensible high ground, [[Helwing Hold]] commands road access rather than river trade. Its separation from [[Highford]] reflects an older model of rule, where authority was projected outward rather than embedded in commerce.
 
 
 ##### **[[Redmarsh]]**
 
 - **Population:** ~2,000
+- **Geographical Position:** Eastern [[Fenward Marches]], on a low ridge where the marsh gives way to stable ground beside a navigable tributary
 - **Role:** Coal extraction, river barging, industrial workshops
-- **Notes:** Largest settlement in the Fenward Marches. Operates under emergency powers and intense oversight. Central to industrial expansion and political tension.
+- **Notes:** Redmarsh’s ridge location keeps it above seasonal flooding while allowing direct access to marsh-bound coal seams and river transport. It is the easternmost major settlement under firm ducal control.
 
 
 ##### **[[Grayfen Crossing]]**
