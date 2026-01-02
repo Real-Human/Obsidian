@@ -1,8 +1,8 @@
 #### **Overview**
 
-The **Duchy of Marlowe-Helwing** is a major eastern border realm, occupying the lowlands and river-marsh systems between the inner duchies and the contested frontier now dominated by the **[[Iron Host]]**. Long regarded as a pragmatic, resource-rich duchy rather than a political powerhouse, Marlowe-Helwing has historically served as both a buffer state and an industrial supplier to the heartlands.
+The **Duchy of Marlowe-Helwing** is a major eastern border realm, occupying fertile lowlands, river corridors, and the marsh-bound frontier known as the Fenward Marches. Historically a buffer state between the inner duchies and the eastern wilds, Marlowe-Helwing has long balanced decentralised local governance with ducal authority exercised from its ancestral seat.
 
-In the past decade, this role has been severely strained. Multiple neighbouring regions have fallen to the [[Iron Host]], pushing tens of thousands of refugees into Helwing territory. At the same time, [[Duke Helwing]]’s prolonged illness has left the duchy without clear central leadership, resulting in fractured authority, emergency governance, and increasing autonomy at the regional and town level.
+In recent years, this balance has fractured. Multiple neighbouring regions have fallen to the advancing **[[Iron Host]]**, sending tens of thousands of refugees westward into the duchy. At the same time, [[Duke Helwing]]’s prolonged illness has left central authority paralysed, accelerating the rise of town councils, emergency powers, and regional strongmen.
 
 #### **Geography**
 
