@@ -25,3 +25,60 @@ The duchy spans three broad zones:
 - **The Western Ridges** – higher ground, old stone roads, and fortified crossings
 
 River travel dominates trade and communication, binding the duchy together even as political unity weakens.
+
+#### **Major Settlements**
+
+##### **[[Highford]]**
+
+**Principal Settlement of the Duchy**
+
+- **Population:** ~14,000
+- **Role:** Trade hub, river crossing, customs and grain market
+- **Notes:** The largest city in the duchy and the centre of real political gravity. Refugee policy, supply allocation, and troop movements are effectively decided here, regardless of ducal edicts.
+
+
+### **[[Helwing Hold]]**
+
+**Seat of the Duke**
+
+- **Population:** ~5,000
+- **Role:** Ducal residence, high courts, archives, noble estates
+- **Notes:** A fortified complex rather than a true city. Many offices remain staffed, but with the Duke incapacitated, authority is slow, procedural, and often ignored.
+
+
+### **[[Redmarsh]]**
+
+- **Population:** ~2,000
+- **Role:** Coal extraction, river barging, industrial workshops
+- **Notes:** Largest settlement in the Fenward Marches. Operates under emergency powers and intense oversight. Central to industrial expansion and political tension.
+
+
+### **Grayfen Crossing**
+
+- **Population:** ~6,500
+    
+- **Role:** Toll collection, ferries, patrol mustering
+    
+- **Notes:** Heavily militarised; frequent clashes between locals and displaced peoples.
+    
+
+---
+
+### **Brackenmere**
+
+- **Population:** ~5,000
+    
+- **Role:** Peat, livestock, and marsh agriculture
+    
+- **Notes:** Food-critical to the eastern duchy; increasingly insular and protectionist.
+    
+
+---
+
+### **Other Towns & Holdings**
+
+- **Stonecross:** ~4,000 (road junction, garrison)
+    
+- **Willowreach:** ~3,500 (river fishing and reeds)
+    
+- **Villages & hamlets:** ~30,000 combined
