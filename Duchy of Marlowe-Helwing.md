@@ -85,3 +85,43 @@ River travel dominates trade and communication, binding the duchy together even 
 - **Population:** ~30,000 combined
 - **Geographical Position:** Scattered throughout the Helwing Lowlands and along minor river tributaries
 - **Notes:** Many have absorbed refugees or been abandoned entirely, depending on proximity to marshland and trade routes.
+
+#### **Population**
+
+**Estimated total population:** ~120,000–130,000  
+**Refugees:** ~20,000–25,000
+
+##### **Species / Ancestry Breakdown (Approx.)**
+
+- Humans: ~55%
+- Dwarves: ~14%
+- Halflings: ~7%
+- Elves (mostly wood & marsh): ~6%
+- Half-elves: ~5%
+- Orcs & Half-orcs: ~8%
+- Gnomes: ~3%
+- Other ancestries: ~2%
+
+Refugee populations skew heavily toward humans, orcs, and mixed-ancestry folk.
+
+#### **Military Forces**
+
+**Total available forces:** ~9,000–11,000
+
+- Standing ducal troops: ~3,500
+- Town militias: ~4,000
+- River wardens & patrols: ~1,500
+- Noble retainers & private forces: ~1,000
+
+Command is fragmented. Loyalty is often owed to towns, patrons, or employers rather than the duchy as a whole.
+
+#### **Governance & Current State**
+
+With the Duke incapacitated:
+
+- Ducal law is enforced unevenly
+- Emergency powers persist without clear oversight
+- Town assemblies wield unprecedented authority
+- Economic and industrial interests increasingly shape policy
+
+The duchy remains wealthy and populous—but politically stalled, socially strained, and dangerously exposed to external threat.
