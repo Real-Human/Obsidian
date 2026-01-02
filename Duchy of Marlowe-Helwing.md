@@ -2,9 +2,9 @@
 
 The **Duchy of Marlowe-Helwing** is a major eastern border realm, occupying fertile lowlands, river corridors, and the marsh-bound frontier known as the Fenward Marches. Historically a buffer state between the inner duchies and the eastern wilds, Marlowe-Helwing has long balanced decentralised local governance with ducal authority exercised from its ancestral seat.
 
-In recent years, this balance has fractured. Multiple neighbouring regions to the **north and north-east** have fallen to the advancing **[[Iron Host]]**, sending waves of displaced peoples south and west into the duchy. Mountain barriers and hostile highlands have so far prevented a direct advance into the Fenward lowlands, but the pressure on northern routes and crossings continues to mount.
+In recent years, this balance has fractured. Multiple neighbouring regions to the **north and north-east** have fallen to the advancing **[[Iron Host]]**, sending waves of displaced peoples south and west into the duchy. Mountain barriers and hostile highlands have so far prevented a direct advance into the Fenward Marches, but the pressure on northern routes and crossings continues to mount.
 
-At the same time, Duke Helwing’s prolonged illness has left central authority paralysed, accelerating the rise of town councils, emergency powers, and regional strongmen.
+At the same time, [[Duke Helwing]]'s prolonged illness has left central authority paralysed, accelerating the rise of town councils, emergency powers, and regional strongmen.
 
 #### **Capital and Seat of Power**
 
@@ -27,6 +27,7 @@ The duchy spans three broad zones:
 - **The Western Ridges** – higher ground, old stone roads, and fortified crossings
 
 River travel dominates trade and communication, binding the duchy together even as political unity weakens.
+The duchy’s northern boundary is defined by broken highlands and narrow passes descending from [[Iron Host]]–controlled territory. These routes are difficult to traverse in force, but impossible to ignore. As a result, northern crossings and river choke-points have become the focus of military planning and fortification, while eastern settlements remain comparatively insulated from immediate attack.
 
 #### **Major Settlements**
 
