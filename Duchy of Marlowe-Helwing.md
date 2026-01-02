@@ -33,17 +33,20 @@ River travel dominates trade and communication, binding the duchy together even 
 **Principal Settlement of the Duchy**
 
 - **Population:** ~14,000
+- **Geographical Position:** Central-western Marlowe-Helwing, spanning the primary stone bridge over the Highwater River
 - **Role:** Trade hub, river crossing, customs and grain market
-- **Notes:** The largest city in the duchy and the centre of real political gravity. Refugee policy, supply allocation, and troop movements are effectively decided here, regardless of ducal edicts.
+- **Notes:** [[Highford]] sits at the safest and most reliable crossing of the duchy’s main river artery, where east–west river traffic meets north–south road networks. Its position places it beyond the worst of the marshlands while still controlling access to the [[Fenward Marches]].
 
 
 ##### **[[Helwing Hold]]**
 
 **Seat of the Duke**
 
-- **Population:** ~5,000
+-  **Population:** ~5,000
+- **Geographical Position:** Western ridges, south of Highford, overlooking the old stone road into the inner duchies
 - **Role:** Ducal residence, high courts, archives, noble estates
-- **Notes:** A fortified complex rather than a true city. Many offices remain staffed, but with the Duke incapacitated, authority is slow, procedural, and often ignored.
+    
+- **Notes:** Built on defensible high ground, Helwing Hold commands road access rather than river trade. Its separation from Highford reflects an older model of rule, where authority was projected outward rather than embedded in commerce.
 
 
 ##### **[[Redmarsh]]**
