@@ -4,15 +4,18 @@ The **Duchy of Marlowe-Helwing** is a major eastern border realm, occupying the 
 
 In the past decade, this role has been severely strained. Multiple neighbouring regions have fallen to the [[Iron Host]], pushing tens of thousands of refugees into Helwing territory. At the same time, [[Duke Helwing]]’s prolonged illness has left the duchy without clear central leadership, resulting in fractured authority, emergency governance, and increasing autonomy at the regional and town level.
 
-## **Geography**
+#### **Geography**
 
 The duchy spans three broad zones:
 
 - **The Fenward Marches** – eastern marshlands, coal seams, peat flats, and river trade routes
-    
 - **The Helwing Lowlands** – arable farmland, baronial estates, and market towns
-    
 - **The Western Ridges** – higher ground, old stone roads, and fortified crossings
-    
 
 Rivers dominate transport and commerce, flowing westward toward safer inner realms.
+
+#### **Major Regions**
+
+##### **Fenward Marches**
+
+A bleak but economically vital frontier region of fens, shallow ridges, and deep coal seams. It bears the brunt of refugee influx and Iron Host pressure. Governance here is highly decentralised, relying on town assemblies, mine councils, and emergency authorities.
