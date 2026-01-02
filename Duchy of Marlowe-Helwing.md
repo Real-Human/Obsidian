@@ -37,7 +37,7 @@ River travel dominates trade and communication, binding the duchy together even 
 - **Notes:** The largest city in the duchy and the centre of real political gravity. Refugee policy, supply allocation, and troop movements are effectively decided here, regardless of ducal edicts.
 
 
-### **[[Helwing Hold]]**
+##### **[[Helwing Hold]]**
 
 **Seat of the Duke**
 
@@ -46,39 +46,29 @@ River travel dominates trade and communication, binding the duchy together even 
 - **Notes:** A fortified complex rather than a true city. Many offices remain staffed, but with the Duke incapacitated, authority is slow, procedural, and often ignored.
 
 
-### **[[Redmarsh]]**
+##### **[[Redmarsh]]**
 
 - **Population:** ~2,000
 - **Role:** Coal extraction, river barging, industrial workshops
 - **Notes:** Largest settlement in the Fenward Marches. Operates under emergency powers and intense oversight. Central to industrial expansion and political tension.
 
 
-### **Grayfen Crossing**
+##### **[[Grayfen Crossing]]**
 
 - **Population:** ~6,500
-    
 - **Role:** Toll collection, ferries, patrol mustering
-    
 - **Notes:** Heavily militarised; frequent clashes between locals and displaced peoples.
-    
 
----
 
-### **Brackenmere**
+##### **[[Brackenmere]]**
 
 - **Population:** ~5,000
-    
 - **Role:** Peat, livestock, and marsh agriculture
-    
 - **Notes:** Food-critical to the eastern duchy; increasingly insular and protectionist.
-    
 
----
 
-### **Other Towns & Holdings**
+##### **Other Towns & Holdings**
 
 - **Stonecross:** ~4,000 (road junction, garrison)
-    
 - **Willowreach:** ~3,500 (river fishing and reeds)
-    
 - **Villages & hamlets:** ~30,000 combined
