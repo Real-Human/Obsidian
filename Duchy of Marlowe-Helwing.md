@@ -1,5 +1,5 @@
-**Region Type:** Duchy (feudal realm with strong civic charters)  
-**Ruling House:** House Marlowe-Helwing  
-**Seat of Rule:** [[Highford]] _(ducal court and archive-hold)_  
-**Notable Region:** [[Fenward Marches]]  
-**Key Holdings:** [[Redmarsh]] (industrial centre), river-market towns, marsh frontier watch posts
+#### **Overview**
+
+The **Duchy of Marlowe-Helwing** is a major eastern border realm, occupying the lowlands and river-marsh systems between the inner duchies and the contested frontier now dominated by the **[[I]]ron Host**. Long regarded as a pragmatic, resource-rich duchy rather than a political powerhouse, Marlowe-Helwing has historically served as both a buffer state and an industrial supplier to the heartlands.
+
+In the past decade, this role has been severely strained. Multiple neighbouring regions have fallen to the Iron Host, pushing tens of thousands of refugees into Helwing territory. At the same time, Duke Helwing’s prolonged illness has left the duchy without clear central leadership, resulting in fractured authority, emergency governance, and increasing autonomy at the regional and town level.
