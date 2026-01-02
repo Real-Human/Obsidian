@@ -22,14 +22,14 @@ A bleak but economically vital frontier region of fens, shallow ridges, and deep
 
 #### **Major Settlements**
 
-##### **Helwing Hold**
+##### **[[Helwing Hold]]**
 
 - **Population:** ~18,000
 - **Role:** Ducal seat, high courts, archives, noble estates
 - **Notes:** Politically paralysed. Many offices remain staffed, but decisive authority is lacking.
 
 
-##### **Highford**
+##### **[[Highford]]**
 
 - **Population:** ~14,000
 - **Role:** Major river crossing, customs house, grain and timber market
