@@ -59,19 +59,24 @@ River travel dominates trade and communication, binding the duchy together even 
 ##### **[[Grayfen Crossing]]**
 
 - **Population:** ~6,500
+- **Geographical Position:** North-eastern duchy, where the fen-rivers narrow into a controlled crossing
 - **Role:** Toll collection, ferries, patrol mustering
-- **Notes:** Heavily militarised; frequent clashes between locals and displaced peoples.
+- **Notes:** [[Grayfen Crossing]] controls one of the few reliable routes through the northern marshes. Its geography makes it a natural choke-point, explaining its heavy fortification and military presence.
 
 
 ##### **[[Brackenmere]]**
 
 - **Population:** ~5,000
+- **Geographical Position:** Southern Fenward edge, at the transition between marshland and arable lowland
 - **Role:** Peat, livestock, and marsh agriculture
-- **Notes:** Food-critical to the eastern duchy; increasingly insular and protectionist.
-
+- **Notes:** [[Brackenmere]] sits where drier ground allows farming to supplement marsh resources. It serves as a food conduit between rural holdings and the eastern frontier towns.
 
 ##### **Other Towns & Holdings**
 
-- **Stonecross:** ~4,000 (road junction, garrison)
+**Stonecross**
+
+- **Population:** ~4,000
+- **Geographical Position:** Western ridges, at the junction of two old military roads
+- **Role:** Garrison town, road control, mustering point
 - **Willowreach:** ~3,500 (river fishing and reeds)
 - **Villages & hamlets:** ~30,000 combined
