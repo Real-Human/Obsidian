@@ -6,22 +6,22 @@ They are neither mercenaries nor bandits. Every fighter within the Companies was
 
 #### **Origins**
 
-The **Displaced Companies** formed from the remnants of defeated forces retreating south and west as northern territories fell. Some units withdrew intact but leaderless; others were reduced to handfuls of veterans after encirclement, retreat, or annihilation of their parent formations.
+As the [[Iron Host]] advanced through the northern and north-eastern regions, entire armies were broken. Some were destroyed outright; others disintegrated during withdrawal as supply lines failed and political authority evaporated. Thousands fled south. Most laid down their arms. Some did not.
 
-Early attempts at absorption into foreign command structures failed. Mismatched doctrines, distrust of distant authorities, and the trauma of collapse led many survivors to reject permanent subordination. Instead, experienced officers and non-commissioned leaders began organising survivors into mobile companies, preserving what discipline they could while abandoning rigid hierarchy.
+Small groups of officers and veteran soldiers began gathering survivors along retreat routes, initially for mutual defence. Over time, repeated contact with Iron Host scouts and raiding parties forced these groups to coordinate. Discipline returned, not as parade-ground formality, but as a matter of survival.
 
-Their consolidation accelerated once [[Iron Host]] scouts and outriders began operating beyond the highlands. These encounters proved that uncoordinated survival was not enough.
+The name _Displaced Companies_ emerged organically, used by towns and officials to describe armed refugee groups who were clearly soldiers, but no longer belonged to any recognised army.
 
 #### **Organisation & Command**
 
-The Displaced Companies retain military discipline, but not a formal army structure.
+The Displaced Companies do not constitute a single unified army. They are a network of semi-independent formations, each tracing its lineage to a fallen realm or banner.
 
-- **Company size:** 30–80 fighters
-- **Total strength:** ~700–1,000
-- **Composition:** Former infantry, skirmishers, engineers, and artillery crews (now repurposed)
-- **Command:** Veteran officers recognised by experience, not rank papers
+- **Company size:** 30–100 fighters
+- **Total strength:** ~700–1,000 (variable)
+- **Composition:** Former infantry, scouts, engineers, guards, and officers
+- **Command:** Veteran leadership recognised by consensus and competence
 
-A single war-leader is widely acknowledged as _first among equals_, coordinating strategy and mediation between companies. Authority is practical rather than absolute, leaders who fail are replaced quietly.
+A single war-leader acts as _first among equals_, coordinating strategy, mediating disputes, and maintaining unity between companies. Authority is practical, not absolute; leaders who fail to protect their people lose standing quickly.
 
 #### **Relationship with the Duchy**
 
