@@ -103,4 +103,4 @@ Once elite household troops, now reduced to a hardened cadre.
 - Politically silent and deeply watchful
 - Refuse to swear new oaths
 
-Their presence unsettles the nobility of Marlowe-Helwing.
+Their presence unsettles the nobility of [[Duchy of Marlowe-Helwing|Marlowe-Helwing]].
