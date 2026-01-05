@@ -27,8 +27,23 @@ A single war-leader is widely acknowledged as _first among equals_, coordinating
 
 The Duchy’s position remains unresolved.
 
-- **Highford** treats the Companies as a de facto auxiliary force
-- **Grayfen Crossing** relies on them as a forward screen
-- **Helwing Hold** has never formally legitimised them
+- **[[Highford]]** treats the Companies as a de facto auxiliary force
+- **[[Grayfen Crossing]]** relies on them as a forward screen
+- **[[Helwing Hold]]** has never formally legitimised them
 
 Officially, they “do not exist.” In practice, they are supplied, warned, and occasionally guided—just never acknowledged.
+
+#### **Doctrine & Tactics**
+
+Though no longer a conventional army, the Displaced Companies fight like professionals adapting to defeat.
+
+They specialise in:
+
+- Delaying actions and fighting withdrawals
+- Ambushes using disciplined fire and coordinated movement
+- Denial of terrain rather than occupation
+- Harassment of [[Iron Host]] reconnaissance and logistics
+
+They avoid static defence and large formations, having learned—often painfully—that this is where the [[Iron Host]] is strongest.
+
+#### Known Companies & Units
