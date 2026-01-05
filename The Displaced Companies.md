@@ -1,8 +1,8 @@
 #### **Overview**
 
-The **Displaced Companies** are a loose confederation of former soldiers from multiple northern realms and border states destroyed or overrun by the [[Iron Host]]. Once members of organised armies—levies, border regiments, city guards, and professional troops—they now operate as an irregular force within and beyond the borders of the **[[Duchy of Marlowe-Helwing]]**.
+The **Displaced Companies** are a confederation of former soldiers drawn from the shattered armies of northern duchies, kingdoms, and freeholds overrun by the **[[Iron Host]]**. Once sworn to banners that no longer fly, they now operate as an irregular military force within and beyond the borders of the **[[Duchy of Marlowe-Helwing]]**.
 
-They are not mercenaries, nor a militia in the usual sense. They are what remains when armies break but soldiers survive.
+They are neither mercenaries nor bandits. Every fighter within the Companies was trained, armed, and blooded as part of a formal army. What unites them is not loyalty to a new state, but the shared experience of defeat, retreat, and survival when command collapsed and homelands were lost.
 
 #### **Origins**
 
