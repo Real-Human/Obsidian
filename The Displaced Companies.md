@@ -26,3 +26,81 @@ A single war-leader acts as _first among equals_, coordinating strategy, mediati
 #### **Composition & Origins**
 
 Unlike most forces, the Displaced Companies are organised by **where they came from**, not how they fight. Each company preserves fragments of its former army’s culture, doctrine, and grievances.
+
+##### **The Gray Banner Remnants**
+
+**Formerly:** Allied Armies of the Northern March Kingdoms  
+**Estimated Strength:** ~180
+
+Once the professional core of several border states, these troops survived a prolonged fighting withdrawal through collapsing defensive lines.
+
+- Maintain strict discipline and internal hierarchy
+- Favour shield formations and controlled retreats
+- Deeply distrust political authorities after abandonment
+
+They form the closest thing the Companies have to a conventional battle line.
+
+##### **The Highcrest Survivors**
+
+**Formerly:** Duchy of Highcrest (mountain realm)  
+**Estimated Strength:** ~120
+
+Highcrest fell defending the highland passes now controlled by the Iron Host. Its survivors are methodical and uncompromising.
+
+- Specialists in pass denial and ambush
+- Heavy use of terrain traps and collapses
+- Known for aggressive counter-scouting
+
+They often operate furthest beyond the frontier.
+
+##### **The Fenward Exiles**
+
+**Formerly:** Eastern Fenward Freeholds  
+**Estimated Strength:** ~150
+
+Drawn from fen-bound city militias and river guards, the Exiles excel in marsh and river warfare.
+
+- Experts in shallow water and night movement
+- Prefer harassment and withdrawal over decisive engagement
+- Maintain quiet ties with fen communities
+
+They view Marlowe-Helwing as the last surviving frontier, not a patron.
+
+##### **The Black Standard**
+
+**Formerly:** Royal Host of Karrowen  
+**Estimated Strength:** ~90
+
+Karrowen’s army was destroyed in a single catastrophic defeat. Survivors cling to old command traditions despite their impracticality.
+
+- Retain formal ranks and drill
+- Strong internal discipline
+- Ongoing tension between obedience and necessity
+
+Their officers struggle most with the loss of legitimate authority.
+
+##### **The Last Oath Companies**
+
+**Formerly:** Garrisons of annihilated cities  
+**Estimated Strength:** ~200
+
+These fighters come from settlements that no longer exist.
+
+- No shared heraldry or doctrine
+- Fatalistic but unbreakable morale
+- Frequently volunteer for rearguard and holding actions
+
+They are widely respected and quietly feared.
+
+##### **The Broken Crown Guard**
+
+**Formerly:** Ducal Guard of a fallen duchy  
+**Estimated Strength:** ~60
+
+Once elite household troops, now reduced to a hardened cadre.
+
+- Superior equipment and training
+- Politically silent and deeply watchful
+- Refuse to swear new oaths
+
+Their presence unsettles the nobility of Marlowe-Helwing.
