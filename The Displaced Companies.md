@@ -23,57 +23,6 @@ The Displaced Companies do not constitute a single unified army. They are a netw
 
 A single war-leader acts as _first among equals_, coordinating strategy, mediating disputes, and maintaining unity between companies. Authority is practical, not absolute; leaders who fail to protect their people lose standing quickly.
 
-#### **Relationship with the Duchy**
+#### **Composition & Origins**
 
-The Duchy’s position remains unresolved.
-
-- **[[Highford]]** treats the Companies as a de facto auxiliary force
-- **[[Grayfen Crossing]]** relies on them as a forward screen
-- **[[Helwing Hold]]** has never formally legitimised them
-
-Officially, they “do not exist.” In practice, they are supplied, warned, and occasionally guided—just never acknowledged.
-
-#### **Doctrine & Tactics**
-
-Though no longer a conventional army, the Displaced Companies fight like professionals adapting to defeat.
-
-They specialise in:
-
-- Delaying actions and fighting withdrawals
-- Ambushes using disciplined fire and coordinated movement
-- Denial of terrain rather than occupation
-- Harassment of [[Iron Host]] reconnaissance and logistics
-
-They avoid static defence and large formations, having learned—often painfully—that this is where the [[Iron Host]] is strongest.
-
-#### Known Companies & Units
-
-##### **The Broken Pike**
-
-- **Origin:** Shattered infantry regiments
-- **Role:** Core fighting line when battle is unavoidable
-- **Notes:** Retain formation discipline and shield drills; often anchor larger actions.
-
-##### **The Fenrunners**
-
-- **Origin:** Border scouts and light infantry
-- **Role:** Reconnaissance, screening, pursuit
-- **Notes:** Experts in broken ground and marsh approaches; trusted with forward warning.
-
-##### **Ashroad Detachments**
-
-- **Origin:** Rear-guard and logistics troops
-- **Role:** Sabotage, denial, controlled demolition
-- **Notes:** Former engineers and pioneers; specialise in collapsing routes and burning supplies.
-
-##### **Blackfen Bow**
-
-- **Origin:** Mixed missile units from multiple armies
-- **Role:** Skirmishing and ranged harassment
-- **Notes:** Emphasise discipline over volume; fire, reposition, disappear.
-
-##### **The Last Stand Companies**
-
-- **Origin:** Sole survivors of annihilated formations
-- **Role:** Rear-guard, sacrifice delays, critical holds
-- **Notes:** Morale is grim but unshakeable; casualties are expected, not feared.
+Unlike most forces, the Displaced Companies are organised by **where they came from**, not how they fight. Each company preserves fragments of its former army’s culture, doctrine, and grievances.
