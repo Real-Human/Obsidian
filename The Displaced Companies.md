@@ -11,3 +11,24 @@ The **Displaced Companies** formed from the remnants of defeated forces retreati
 Early attempts at absorption into foreign command structures failed. Mismatched doctrines, distrust of distant authorities, and the trauma of collapse led many survivors to reject permanent subordination. Instead, experienced officers and non-commissioned leaders began organising survivors into mobile companies, preserving what discipline they could while abandoning rigid hierarchy.
 
 Their consolidation accelerated once [[Iron Host]] scouts and outriders began operating beyond the highlands. These encounters proved that uncoordinated survival was not enough.
+
+#### **Organisation & Command**
+
+The Displaced Companies retain military discipline, but not a formal army structure.
+
+- **Company size:** 30–80 fighters
+- **Total strength:** ~700–1,000
+- **Composition:** Former infantry, skirmishers, engineers, and artillery crews (now repurposed)
+- **Command:** Veteran officers recognised by experience, not rank papers
+
+A single war-leader is widely acknowledged as _first among equals_, coordinating strategy and mediation between companies. Authority is practical rather than absolute, leaders who fail are replaced quietly.
+
+#### **Relationship with the Duchy**
+
+The Duchy’s position remains unresolved.
+
+- **Highford** treats the Companies as a de facto auxiliary force
+- **Grayfen Crossing** relies on them as a forward screen
+- **Helwing Hold** has never formally legitimised them
+
+Officially, they “do not exist.” In practice, they are supplied, warned, and occasionally guided—just never acknowledged.
