@@ -47,3 +47,33 @@ They specialise in:
 They avoid static defence and large formations, having learned—often painfully—that this is where the [[Iron Host]] is strongest.
 
 #### Known Companies & Units
+
+##### **The Broken Pike**
+
+- **Origin:** Shattered infantry regiments
+- **Role:** Core fighting line when battle is unavoidable
+- **Notes:** Retain formation discipline and shield drills; often anchor larger actions.
+
+##### **The Fenrunners**
+
+- **Origin:** Border scouts and light infantry
+- **Role:** Reconnaissance, screening, pursuit
+- **Notes:** Experts in broken ground and marsh approaches; trusted with forward warning.
+
+##### **Ashroad Detachments**
+
+- **Origin:** Rear-guard and logistics troops
+- **Role:** Sabotage, denial, controlled demolition
+- **Notes:** Former engineers and pioneers; specialise in collapsing routes and burning supplies.
+
+##### **Blackfen Bow**
+
+- **Origin:** Mixed missile units from multiple armies
+- **Role:** Skirmishing and ranged harassment
+- **Notes:** Emphasise discipline over volume; fire, reposition, disappear.
+
+##### **The Last Stand Companies**
+
+- **Origin:** Sole survivors of annihilated formations
+- **Role:** Rear-guard, sacrifice delays, critical holds
+- **Notes:** Morale is grim but unshakeable; casualties are expected, not feared.
