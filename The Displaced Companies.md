@@ -64,7 +64,7 @@ Drawn from fen-bound city militias and river guards, the Exiles excel in marsh a
 - Prefer harassment and withdrawal over decisive engagement
 - Maintain quiet ties with fen communities
 
-They view Marlowe-Helwing as the last surviving frontier, not a patron.
+They view [[Duchy of Marlowe-Helwing|Marlowe-Helwing]] as the last surviving frontier, not a patron.
 
 ##### **The Black Standard**
 
