@@ -83,8 +83,9 @@ The duchy’s northern boundary is defined by broken highlands and narrow passes
 - **Notes:**  [[Stonecross]] commands one of the most critical permanent crossings in the duchy. Built around an old stone bridge and reinforced repeatedly over generations, it functions as both a military checkpoint and a commercial choke point. Movement between the southern Lowlands, [[Highford]], and the northern approaches inevitably passes through Stonecross, making it heavily policed and politically sensitive.
 ###### **Willowreach**
 - **Population:** ~3,500
-- **Geographical Position:** Central lowlands, downstream from Highford along slow-moving river bends
-- **Role:** Fishing, reeds, rivercraft, barge maintenance
+- **Geographical Position:** Southern Lowlands, downstream of [[Highford]] along a broad, slow-moving river reach
+- **Role:** River trade, fishing, reed harvesting, barge construction and maintenance
+- **Notes:**  [[Willow Reach]] lies along a gentle bend of the main river where wide banks, soft floodplain soils, and willow stands support river traffic and small-scale shipwork. It acts as a minor port for bulk goods moving southward, particularly grain, timber, and peat from upriver settlements. Its economy is stable rather than strategic, tied closely to seasonal river conditions.
 ###### **Villages & Hamlets**
 - **Population:** ~30,000 combined
 - **Geographical Position:** Scattered throughout the Helwing Lowlands and along minor river tributaries
