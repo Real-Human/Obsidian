@@ -70,9 +70,9 @@ The duchy’s northern boundary is defined by broken highlands and narrow passes
 ##### **[[Brackenmere]]**
 
 - **Population:** ~5,000
-- **Geographical Position:** Southern Fenward edge, at the transition between marshland and arable lowland
-- **Role:** Peat, livestock, and marsh agriculture
-- **Notes:** [[Brackenmere]] sits where drier ground allows farming to supplement marsh resources. It serves as a food conduit between rural holdings and the eastern frontier towns.
+- **Geographical Position:** **Northern Fenward Marches**, east of the central river spine, on a sluggish river near the marsh–upland transition
+- **Role:** Peat cutting, reed harvest, fen livestock, frontier supply
+- [[Brackenmere]] sits on precarious ground where raised causeways and semi-dry banks allow permanent settlement amid the Fenward marshes. It relies heavily on peat, reeds, and hardy marsh livestock, exporting fuel and fodder westward while serving as a supply and staging point for traffic moving deeper into the Marches. Flooding and seasonal isolation are constant pressures, shaping a pragmatic, insular population.
 
 ##### **Other Towns & Holdings**
 
