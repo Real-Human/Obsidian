@@ -78,7 +78,7 @@ The duchy’s northern boundary is defined by broken highlands and narrow passes
 
 ###### **Stonecross**
 - **Population:** ~4,000
-- **Geographical Position:** Western ridges, at the junction of two old military roads
+- **Geographical Position:** Central Lowlands, north of [[Highford]], at a major stone bridge where the primary north–south road crosses the main river
 - **Role:** Garrison town, road control, mustering point
 ###### **Willowreach**
 - **Population:** ~3,500
