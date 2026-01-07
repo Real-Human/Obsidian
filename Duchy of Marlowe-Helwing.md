@@ -79,7 +79,8 @@ The duchy’s northern boundary is defined by broken highlands and narrow passes
 ###### **Stonecross**
 - **Population:** ~4,000
 - **Geographical Position:** Central Lowlands, north of [[Highford]], at a major stone bridge where the primary north–south road crosses the main river
-- **Role:** Garrison town, road control, mustering point
+- **Role:** Bridge control, toll collection, garrison town, troop mustering
+- **Notes:**  [[Stonecross]] commands one of the most critical permanent crossings in the duchy. Built around an old stone bridge and reinforced repeatedly over generations, it functions as both a military checkpoint and a commercial choke point. Movement between the southern Lowlands, [[Highford]], and the northern approaches inevitably passes through Stonecross, making it heavily policed and politically sensitive.
 ###### **Willowreach**
 - **Population:** ~3,500
 - **Geographical Position:** Central lowlands, downstream from Highford along slow-moving river bends
