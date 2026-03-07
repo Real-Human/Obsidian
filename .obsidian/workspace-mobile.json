@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Commons’ Assembly.md",
+                "file": "Ephraim Gauge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Commons’ Assembly"
+              "title": "Ephraim Gauge"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Commons’ Assembly.md",
+            "file": "Ephraim Gauge.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,5 +169,8 @@
     }
   },
   "active": "bf8ab8ad7f7c5ae2",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Commons’ Assembly.md",
+    "The Displaced Companies.md"
+  ]
 }
