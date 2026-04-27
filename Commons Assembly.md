@@ -49,7 +49,7 @@ The Assembly seats **roughly two dozen delegates**, drawn from four broad catego
 - **Mining wards** — the largest bloc, with delegates elected by pithead voting amongst registered miners. Each major shaft and seam complex sends at least one representative.
 - **Trades and crafts** — delegates from the river-haulers' guild, the carters, the smithies, the lamp-glass workshops, and the smaller mills.
 - **Outlying villages** — envoys sent by the marshland hamlets and ridge farms within [[Redmarsh]]'s economic orbit.
-- **Guild and workshop seats** — a smaller number of seats reserved for established workshops and millers, including a non-voting observer's chair currently held by the [[Glasswrights' Covenant|Glasswrights]].
+- **Guild and workshop seats** — a smaller number of seats reserved for established workshops and millers, including a non-voting observer's chair currently held by the [[Glasswrights Covenant|Glasswrights]].
 
 Elections are staggered, with roughly a third of seats contested each year. The franchise is broader than is typical for towns of this size — any registered worker, householder, or guild member of standing may vote — but registration itself has become a quiet battleground. A worker who falls behind on company-terrace rent, for example, is liable to find their name "pending review" come the next election.
 
@@ -143,7 +143,7 @@ The Assembly does not know that the instability is the presence of [[Wondrous Co
 
 ##### **The Glasswrights' Expanding Role**
 
-The [[Glasswrights' Covenant|Glasswrights]]' contracts for safe-lamps, ventilators, and winding engines have grown substantially. The Assembly views this as a sensible response to mining hazards. Mild concern has been raised about the guild's privileged access to mine sites and the unusual frequency of closed-door meetings between [[Master Sola Meinh]] and the mayor's office. Nothing has come of these concerns.
+The [[Glasswrights Covenant|Glasswrights]]' contracts for safe-lamps, ventilators, and winding engines have grown substantially. The Assembly views this as a sensible response to mining hazards. Mild concern has been raised about the guild's privileged access to mine sites and the unusual frequency of closed-door meetings between [[Master Sola Meinh]] and the mayor's office. Nothing has come of these concerns.
 
 ##### **Restoration of Regular Governance**
 
@@ -159,7 +159,7 @@ For a GM running political play in [[Redmarsh]], the Assembly is at its most use
 
 - **A document.** [[Ephraim Gauge|Gauge]]'s **Black Book** or the **Deed Codicil** reaching the Speaker's desk would not destroy him by itself, but would give [[Marta Goodwin|Goodwin]] the basis for a formal inquiry he could not procedurally bury.
 - **A specimen.** A single piece of stabilised [[Wondrous Coal]] in the chamber, with someone in attendance who could explain what it is, would crack open the entire concealed economy at once.
-- **A witness.** A foreman, [[Glasswrights' Covenant|Glasswrights]] apprentice, or barge captain willing to testify under public hearing about what they have actually seen below.
+- **A witness.** A foreman, [[Glasswrights Covenant|Glasswrights]] apprentice, or barge captain willing to testify under public hearing about what they have actually seen below.
 - **A defection.** Calla Westren turning against [[Ephraim Gauge|Gauge]] — over a tax issue, a personal slight, or a moral line she did not realise she had — would not change the Assembly's votes much, but would change the air in the chamber overnight.
 - **A death.** The next major collapse in the deep shafts, if it claims enough lives or the wrong family, may push Hessen Brack past the point at which procedure restrains him.
 - **A flood.** A serious flood season would expose the limits of [[Ephraim Gauge|Gauge]]'s emergency competence and force the Assembly to coordinate relief in ways that re-establish its practical authority.

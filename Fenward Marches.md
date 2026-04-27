@@ -68,9 +68,9 @@ The town today is large but visibly worn. Buildings lean into one another for su
 **Position:** Eastern Marches, on a long ridge above a navigable Highwater tributary  
 **Role:** Coal extraction, river barging, industrial workshops; covertly, [[Wondrous Coal]] extraction
 
-[[Redmarsh]] is the youngest and most rapidly growing of the Marches' major settlements. Where [[Brackenmere]] grew by accident, Redmarsh has grown by design — specifically, by the design of **[[Ephraim Gauge]]**, whose emergency mayoralty has driven a coal boom unmatched anywhere in the eastern duchy. New pithead structures, company terraces, and barge stations appear faster than the [[Commons' Assembly]] can regulate them.
+[[Redmarsh]] is the youngest and most rapidly growing of the Marches' major settlements. Where [[Brackenmere]] grew by accident, Redmarsh has grown by design — specifically, by the design of **[[Ephraim Gauge]]**, whose emergency mayoralty has driven a coal boom unmatched anywhere in the eastern duchy. New pithead structures, company terraces, and barge stations appear faster than the [[Commons Assembly]] can regulate them.
 
-The town's prosperity is real but uneven. Wages are paid on time; conditions deteriorate steadily; the ridge itself is increasingly pockmarked with new shafts. Outwardly, Redmarsh is a model of frontier industry. Beneath the surface, its growth is sustained by the secret extraction of [[Wondrous Coal]] and the quiet partnership between [[Ephraim Gauge|Gauge]] and the **[[Glasswrights' Covenant]]**.
+The town's prosperity is real but uneven. Wages are paid on time; conditions deteriorate steadily; the ridge itself is increasingly pockmarked with new shafts. Outwardly, Redmarsh is a model of frontier industry. Beneath the surface, its growth is sustained by the secret extraction of [[Wondrous Coal]] and the quiet partnership between [[Ephraim Gauge|Gauge]] and the **[[Glasswrights Covenant]]**.
 
 ##### **[[Grayfen Crossing]]**
 
@@ -123,7 +123,7 @@ The conclusion of the northern war has pushed perhaps three to five thousand dis
 
 ##### **Coal and Peat**
 
-The defining industries of the Marches. Ordinary coal from Redmarsh's upper seams supplies the duchy's forges, kilns, and increasingly its winter hearths. Peat from the wider fens — cut at Brackenmere, Low Fenmead, and dozens of smaller camps — fuels the rural economy and is exported westward in quantity. Behind both, hidden from the [[Commons' Assembly]] and the wider public, the [[Wondrous Coal]] trade quietly funds [[Ephraim Gauge|Gauge]]'s ambitions and the [[Glasswrights' Covenant|Glasswrights']] research.
+The defining industries of the Marches. Ordinary coal from Redmarsh's upper seams supplies the duchy's forges, kilns, and increasingly its winter hearths. Peat from the wider fens — cut at Brackenmere, Low Fenmead, and dozens of smaller camps — fuels the rural economy and is exported westward in quantity. Behind both, hidden from the [[Commons Assembly]] and the wider public, the [[Wondrous Coal]] trade quietly funds [[Ephraim Gauge|Gauge]]'s ambitions and the [[Glasswrights Covenant|Glasswrights]] research.
 
 ##### **River Trade**
 
@@ -135,7 +135,7 @@ Hardy grains, reed crops, fish stocks, waterfowl, marsh-cattle, and modest quant
 
 ##### **Stagnant and Hidden Economies**
 
-[[Brackenmere]]'s economy has barely grown in two generations, and its share of regional trade declines further each year. Conversely, Redmarsh's true economy is substantially larger than its public accounts suggest, with the difference accounted for in unrecorded shipments to the [[Glasswrights' Covenant]].
+[[Brackenmere]]'s economy has barely grown in two generations, and its share of regional trade declines further each year. Conversely, Redmarsh's true economy is substantially larger than its public accounts suggest, with the difference accounted for in unrecorded shipments to the [[Glasswrights Covenant]].
 
 #### **Governance**
 
@@ -143,7 +143,7 @@ The Marches fall under the nominal authority of the Duke of Marlowe-Helwing, but
 
 - **Town reeves**, often hereditary or near-hereditary
 - **Mining councils**, where applicable
-- **Commons' assemblies**, of which Redmarsh's is the most formalised
+- **Commons assemblies**, of which Redmarsh's is the most formalised
 - **Barge wardens**, who police the rivers and collect informal tolls
 - **Fen-wardens**, who manage causeway maintenance and seasonal access
 
