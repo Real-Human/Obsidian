@@ -3,13 +3,13 @@
 **Population:** ~2,000  
 **Primary Industry:** Coal mining, [[Wondrous Coal]] extraction  
 **Notable Figures:** [[Ephraim Gauge]], [[Marta Goodwin]], [[Master Sola Meinh]]  
-**Associated Factions:** [[Commons’ Assembly]], [[Glasswrights’ Covenant]]
+**Associated Factions:** [[Commons’ Assembly]], [[Glasswrights' Covenant]]
 
 #### **Overview**
 
 Redmarsh is the **primary mining and industrial centre** of the [[Fenward Marches]], built atop a low ridge where the eastern marshes give way to firmer ground beside a navigable tributary. Though smaller than [[Brackenmere]] or [[Grayfen Crossing]] by head count, it dwarfs them in economic and political weight: its pitheads, weigh-houses, barge yards, and workshops feed coal westward into the duchy's forges and kilns, and its deeper seams have made it the centre of a quiet, dangerous trade.
 
-Beneath the surface, Redmarsh holds the richest known deposits of **[[Wondrous Coal]]**. Publicly, this material is reported as worthless and hazardous waste; in truth, it is being quietly extracted, stabilised, and traded under the direction of [[Ephraim Gauge|Mayor Gauge]] and the [[Glasswrights’ Covenant]]. Most miners, most townsfolk, and most of the [[Commons' Assembly]] have no idea what they are sitting on.
+Beneath the surface, Redmarsh holds the richest known deposits of **[[Wondrous Coal]]**. Publicly, this material is reported as worthless and hazardous waste; in truth, it is being quietly extracted, stabilised, and traded under the direction of [[Ephraim Gauge|Mayor Gauge]] and the [[Glasswrights' Covenant]]. Most miners, most townsfolk, and most of the [[Commons' Assembly]] have no idea what they are sitting on.
 
 The town's other distinguishing feature is its position. Redmarsh is the **easternmost major settlement under firm ducal control** — not the easternmost in the Marches (that distinction belongs to [[Brackenmere]], further north-east), but the last point at which ducal authority is actively, systematically _enforced_. Beyond Redmarsh, governance thins into the looser, more insular self-rule of frontier fen communities. This status is less a matter of geography than of [[Ephraim Gauge|Gauge's]] grip: permits, checkpoints, and watchmen extend the duchy's reach where, in other places, it would already have frayed.
 
@@ -37,14 +37,14 @@ The local climate is damp and cool, with frequent fogs and long wet winters. Sub
 
 #### **The Town**
 
-Redmarsh is a working settlement, not a pretty one. Its buildings are mostly stone-footed timber, with steep slate or thatched roofs to shed the heavy fen rains. Coal soot streaks the gables of every street within a quarter-mile of the pitheads, and the air carries a near-permanent tang of smoke, peat, and damp wood. At night, the [[Glasswrights’ Covenant|Glasswrights']] safe-lamps cast a soft, steady white over the docks and main thoroughfares — a more reliable light than oil or candle, and one of the few visible marks of the town's growing wealth.
+Redmarsh is a working settlement, not a pretty one. Its buildings are mostly stone-footed timber, with steep slate or thatched roofs to shed the heavy fen rains. Coal soot streaks the gables of every street within a quarter-mile of the pitheads, and the air carries a near-permanent tang of smoke, peat, and damp wood. At night, the [[Glasswrights' Covenant|Glasswrights']] safe-lamps cast a soft, steady white over the docks and main thoroughfares — a more reliable light than oil or candle, and one of the few visible marks of the town's growing wealth.
 
 The town divides loosely into four working districts:
 
 - **The Ridge Top** – civic buildings, the Town Square, the wealthier homes, and [[Ephraim Gauge|Gauge's]] Hall.
 - **The Pitside Quarter** – mine workings, weigh-houses, lamp-rooms, and overseer offices, climbing the western slope of the ridge.
 - **The Dockside Quarter** – worker huts, contract houses, crate-yards, and barge moorings along the river cut.
-- **The Yard** – the [[Glasswrights’ Covenant|Glasswrights']] enclave to the south-east, walled and watched.
+- **The Yard** – the [[Glasswrights' Covenant|Glasswrights']] enclave to the south-east, walled and watched.
 
 Boundaries between these districts are informal but real. A lamp-room foreman would not drink in the same tavern as a barge-hauler, and a [[Glasswrights' Covenant|Glasswright]] apprentice rarely walks alone past the pitheads.
 
@@ -66,7 +66,7 @@ Public governance — and what survives of meaningful oversight — runs through
 
 ##### **The Quiet Third Power**
 
-The [[Glasswrights’ Covenant]] is not a governing body, but their devices — safe-lamps, ventilators, winding engines — are now woven into nearly every aspect of mine operation. [[Ephraim Gauge|Gauge]] depends on their output; the Assembly depends on their safety equipment; and the miners, increasingly, depend on both. Their growing indispensability has made them a third pole of influence in town, though they are careful never to acknowledge it as such.
+The [[Glasswrights' Covenant]] is not a governing body, but their devices — safe-lamps, ventilators, winding engines — are now woven into nearly every aspect of mine operation. [[Ephraim Gauge|Gauge]] depends on their output; the Assembly depends on their safety equipment; and the miners, increasingly, depend on both. Their growing indispensability has made them a third pole of influence in town, though they are careful never to acknowledge it as such.
 
 #### **Economy and Industry**
 
@@ -76,25 +76,25 @@ The upper seams of Redmarsh's mines yield bituminous coal of good quality, long 
 
 ##### **Wondrous Coal**
 
-The deeper seams yield something else. [[Wondrous Coal]] — luminous, volatile, and historically dismissed as a curse — has, since the [[Glasswrights’ Covenant|Glasswrights']] stabilisation breakthrough, become the most valuable commodity in the duchy. Almost no one in Redmarsh knows this.
+The deeper seams yield something else. [[Wondrous Coal]] — luminous, volatile, and historically dismissed as a curse — has, since the [[Glasswrights' Covenant|Glasswrights']] stabilisation breakthrough, become the most valuable commodity in the duchy. Almost no one in Redmarsh knows this.
 
-The official story, supported by [[Ephraim Gauge|Gauge's]] reports to the Assembly and the ducal court, is that the deeper shafts produce dangerous arcane refuse which must be collected in sealed canisters and discreetly destroyed. The reality is that this "refuse" is being hand-delivered to the [[Glasswrights’ Covenant|Glasswrights']] inner workshops at the Yard, where it is stabilised and either applied to the guild's own research or sold onward through channels [[Ephraim Gauge|Gauge]] alone controls.
+The official story, supported by [[Ephraim Gauge|Gauge's]] reports to the Assembly and the ducal court, is that the deeper shafts produce dangerous arcane refuse which must be collected in sealed canisters and discreetly destroyed. The reality is that this "refuse" is being hand-delivered to the [[Glasswrights' Covenant|Glasswrights']] inner workshops at the Yard, where it is stabilised and either applied to the guild's own research or sold onward through channels [[Ephraim Gauge|Gauge]] alone controls.
 
 Knowledge of the truth is restricted to:
 
 - [[Ephraim Gauge]] and a handful of his closest clerks
-- The senior [[Glasswrights’ Covenant|Glasswrights]] and a few trusted apprentices
+- The senior [[Glasswrights' Covenant|Glasswrights]] and a few trusted apprentices
 - A small number of overseers in the deepest tunnels
 
 Everyone else — including most of [[Marta Goodwin|Goodwin's]] Assembly — believes the increased security, the sealed shafts, and the unusual partnership with the [[Glasswrights' Covenant|Glasswrights]] are simply prudent responses to a known hazard.
 
 ##### **Barge Trade**
 
-The river cut along the ridge's eastern flank is Redmarsh's lifeline. The tributary runs westward to join the main river system, then flows past **Kelter's Ford** and on to [[Highford]] — an almost direct route, and the only one capable of carrying coal in the volumes the duchy now expects. Inbound barges return with timber, grain, tools, and finished goods. The docks operate day and night under [[Glasswrights’ Covenant|Glasswright]] safe-lamps, and traffic is monitored closely: unscheduled barges are intercepted at the **River Watchtower** downstream, and barge captains who lose their letters of passage rarely recover them quickly.
+The river cut along the ridge's eastern flank is Redmarsh's lifeline. The tributary runs westward to join the main river system, then flows past **Kelter's Ford** and on to [[Highford]] — an almost direct route, and the only one capable of carrying coal in the volumes the duchy now expects. Inbound barges return with timber, grain, tools, and finished goods. The docks operate day and night under [[Glasswrights' Covenant|Glasswright]] safe-lamps, and traffic is monitored closely: unscheduled barges are intercepted at the **River Watchtower** downstream, and barge captains who lose their letters of passage rarely recover them quickly.
 
 ##### **Supporting Trades**
 
-Smiths, carpenters, cartwrights, lamp-makers, ropers, and a small but skilled population of glassworkers (informally tied to the [[Glasswrights’ Covenant|Glasswrights]]) round out the town's economy. Modest farmland and a single windmill on the eastern road provide a fraction of the town's grain; the rest is imported by barge — a vulnerability [[Ephraim Gauge|Gauge]] is acutely aware of.
+Smiths, carpenters, cartwrights, lamp-makers, ropers, and a small but skilled population of glassworkers (informally tied to the [[Glasswrights' Covenant|Glasswrights]]) round out the town's economy. Modest farmland and a single windmill on the eastern road provide a fraction of the town's grain; the rest is imported by barge — a vulnerability [[Ephraim Gauge|Gauge]] is acutely aware of.
 
 #### **Defences and Security**
 
@@ -105,9 +105,9 @@ Redmarsh has no walls. The marshes on three sides serve as a natural barrier, an
 - **The Lamp-Room and Tool Stores:** Strict issue-and-return systems double as inventories of who is currently in the mines. A miner who fails to return their lamp on time triggers a dispatched search — and a fine.
 - **Private Watchmen:** Around forty in total, paid from [[Ephraim Gauge|Gauge's]] discretionary account. They wear no uniform, but locals recognise them.
 - **Town Militia:** A nominal force of around a hundred, theoretically called up by the Assembly. In practice, equipment, drill, and pay all run through the mayor's office, and command in any real crisis would be contested.
-- **Glasswright Yard Security:** The [[Glasswrights’ Covenant|Glasswrights]] maintain their own perimeter, watched by retainers and protected by a small number of artificer-made deterrents whose exact nature is not publicly known.
+- **Glasswright Yard Security:** The [[Glasswrights' Covenant|Glasswrights]] maintain their own perimeter, watched by retainers and protected by a small number of artificer-made deterrents whose exact nature is not publicly known.
 
-The town's eastern flank, facing the wilds, is essentially undefended. Few in Redmarsh think this strange. A handful — [[Ephraim Gauge|Gauge]] and the senior [[Glasswrights’ Covenant|Glasswrights]] among them — quietly think it should be addressed.
+The town's eastern flank, facing the wilds, is essentially undefended. Few in Redmarsh think this strange. A handful — [[Ephraim Gauge|Gauge]] and the senior [[Glasswrights' Covenant|Glasswrights]] among them — quietly think it should be addressed.
 
 #### **Major Locations**
 
@@ -119,7 +119,7 @@ For visitors, the Town Square is the most reliable place in Redmarsh to overhear
 
 ##### **Gauge's Hall (Mayor's Office)**
 
-A reinforced administrative hall on the Square's northern side, plain in appearance and unfailingly busy within. Clerks copy ledgers, draft permits, and receive petitions in the outer rooms; [[Ephraim Gauge|Gauge]] himself works from a private office at the rear, where the windows are barred and the archive cabinets locked. A separate, discreet meeting room receives [[Glasswrights’ Covenant|Glasswright]] representatives.
+A reinforced administrative hall on the Square's northern side, plain in appearance and unfailingly busy within. Clerks copy ledgers, draft permits, and receive petitions in the outer rooms; [[Ephraim Gauge|Gauge]] himself works from a private office at the rear, where the windows are barred and the archive cabinets locked. A separate, discreet meeting room receives [[Glasswrights' Covenant|Glasswright]] representatives.
 
 The Hall is the most heavily watched building in Redmarsh after the Yard. Petitioners are received politely and processed slowly.
 
@@ -141,7 +141,7 @@ A compact but heavily staffed building between the pithead and the docks. Overse
 
 ##### **The Glasswrights' Yard (Workshop Enclave)**
 
-A walled cluster of angular workshops and test-yards south-east of the Square, instantly recognisable by the steady white glow leaking from its upper windows after dark. The outer workshops produce safe-lamps, ventilators, and winding engines on contract for [[Ephraim Gauge|Gauge's]] mines. The inner workshops — restricted to senior [[Glasswrights’ Covenant|Glasswrights]] and their personally chosen apprentices — handle [[Wondrous Coal]] stabilisation and experimental work.
+A walled cluster of angular workshops and test-yards south-east of the Square, instantly recognisable by the steady white glow leaking from its upper windows after dark. The outer workshops produce safe-lamps, ventilators, and winding engines on contract for [[Ephraim Gauge|Gauge's]] mines. The inner workshops — restricted to senior [[Glasswrights' Covenant|Glasswrights]] and their personally chosen apprentices — handle [[Wondrous Coal]] stabilisation and experimental work.
 
 The air around the Yard sometimes hums on still nights. Locals notice; few comment.
 
@@ -177,7 +177,7 @@ Mixed grain fields, vegetable patches, and fenced livestock areas on the firmer 
 - Dwarves: ~20% (heavily concentrated in the mines and the [[Commons' Assembly]])
 - Half-orcs and orcs: ~10%
 - Halflings: ~7%
-- Gnomes: ~5% (disproportionately represented among [[Glasswrights’ Covenant|Glasswright]] apprentices)
+- Gnomes: ~5% (disproportionately represented among [[Glasswrights' Covenant|Glasswright]] apprentices)
 - Half-elves: ~4%
 - Elves (mostly marsh-dwelling): ~2%
 - Other ancestries: ~2%
@@ -188,7 +188,7 @@ Refugees from the north pass through Redmarsh in modest numbers — far fewer th
 
 Redmarsh sits at a precarious convergence of pressures:
 
-- **Mining is pushing into seams the [[Glasswrights’ Covenant|Glasswrights]] cannot fully predict.** Subsidence warnings, rising injuries, and the slow spread of gob fires beneath the ridge all point toward an eventual reckoning.
+- **Mining is pushing into seams the [[Glasswrights' Covenant|Glasswrights]] cannot fully predict.** Subsidence warnings, rising injuries, and the slow spread of gob fires beneath the ridge all point toward an eventual reckoning.
 - **[[Wondrous Coal]] extraction outpaces stabilisation capacity.** The Yard is working at its limits; backlogs of unstabilised material are stored under conditions [[Liran Dovetail]] privately considers unsafe.
 - **[[Ephraim Gauge|Gauge's]] authority depends on emergency powers that should have lapsed years ago.** A single public scandal — the **Black Book**, the **Deed Codicil**, a tunnel collapse with too many witnesses — could unravel his standing rapidly.
 - **The [[Commons' Assembly]] is asking better questions.** [[Marta Goodwin|Goodwin's]] insistence on duplicate records and traceable disposal procedures is, very slowly, narrowing the space in which the [[Wondrous Coal]] secret can survive.
