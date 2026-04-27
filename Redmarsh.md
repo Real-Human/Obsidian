@@ -3,13 +3,13 @@
 **Population:** ~2,000  
 **Primary Industry:** Coal mining, [[Wondrous Coal]] extraction  
 **Notable Figures:** [[Ephraim Gauge]], [[Marta Goodwin]], [[Master Sola Meinh]]  
-**Associated Factions:** [[Commons’ Assembly]], [[Glasswrights' Covenant]]
+**Associated Factions:** [[Commons’ Assembly]], [[Glasswrights’ Covenant]]
 
 #### **Overview**
 
 Redmarsh is the **primary mining and industrial centre** of the [[Fenward Marches]], built atop a low ridge where the eastern marshes give way to firmer ground beside a navigable tributary. Though smaller than [[Brackenmere]] or [[Grayfen Crossing]] by head count, it dwarfs them in economic and political weight: its pitheads, weigh-houses, barge yards, and workshops feed coal westward into the duchy's forges and kilns, and its deeper seams have made it the centre of a quiet, dangerous trade.
 
-Beneath the surface, Redmarsh holds the richest known deposits of **[[Wondrous Coal]]**. Publicly, this material is reported as worthless and hazardous waste; in truth, it is being quietly extracted, stabilised, and traded under the direction of [[Ephraim Gauge|Mayor Gauge]] and the [[Glasswrights' Covenant]]. Most miners, most townsfolk, and most of the [[Commons' Assembly]] have no idea what they are sitting on.
+Beneath the surface, Redmarsh holds the richest known deposits of **[[Wondrous Coal]]**. Publicly, this material is reported as worthless and hazardous waste; in truth, it is being quietly extracted, stabilised, and traded under the direction of [[Ephraim Gauge|Mayor Gauge]] and the [[Glasswrights’ Covenant]]. Most miners, most townsfolk, and most of the [[Commons' Assembly]] have no idea what they are sitting on.
 
 The town's other distinguishing feature is its position. Redmarsh is the **easternmost major settlement under firm ducal control** — not the easternmost in the Marches (that distinction belongs to [[Brackenmere]], further north-east), but the last point at which ducal authority is actively, systematically _enforced_. Beyond Redmarsh, governance thins into the looser, more insular self-rule of frontier fen communities. This status is less a matter of geography than of [[Ephraim Gauge|Gauge's]] grip: permits, checkpoints, and watchmen extend the duchy's reach where, in other places, it would already have frayed.
 
@@ -37,14 +37,14 @@ The local climate is damp and cool, with frequent fogs and long wet winters. Sub
 
 #### **The Town**
 
-Redmarsh is a working settlement, not a pretty one. Its buildings are mostly stone-footed timber, with steep slate or thatched roofs to shed the heavy fen rains. Coal soot streaks the gables of every street within a quarter-mile of the pitheads, and the air carries a near-permanent tang of smoke, peat, and damp wood. At night, the [[Glasswrights' Covenant|Glasswrights']] safe-lamps cast a soft, steady white over the docks and main thoroughfares — a more reliable light than oil or candle, and one of the few visible marks of the town's growing wealth.
+Redmarsh is a working settlement, not a pretty one. Its buildings are mostly stone-footed timber, with steep slate or thatched roofs to shed the heavy fen rains. Coal soot streaks the gables of every street within a quarter-mile of the pitheads, and the air carries a near-permanent tang of smoke, peat, and damp wood. At night, the [[Glasswrights’ Covenant|Glasswrights']] safe-lamps cast a soft, steady white over the docks and main thoroughfares — a more reliable light than oil or candle, and one of the few visible marks of the town's growing wealth.
 
 The town divides loosely into four working districts:
 
 - **The Ridge Top** – civic buildings, the Town Square, the wealthier homes, and [[Ephraim Gauge|Gauge's]] Hall.
 - **The Pitside Quarter** – mine workings, weigh-houses, lamp-rooms, and overseer offices, climbing the western slope of the ridge.
 - **The Dockside Quarter** – worker huts, contract houses, crate-yards, and barge moorings along the river cut.
-- **The Yard** – the [[Glasswrights' Covenant|Glasswrights']] enclave to the south-east, walled and watched.
+- **The Yard** – the [[Glasswrights’ Covenant|Glasswrights']] enclave to the south-east, walled and watched.
 
 Boundaries between these districts are informal but real. A lamp-room foreman would not drink in the same tavern as a barge-hauler, and a [[Glasswrights' Covenant|Glasswright]] apprentice rarely walks alone past the pitheads.
 
