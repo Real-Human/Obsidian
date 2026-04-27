@@ -177,7 +177,7 @@ Mixed grain fields, vegetable patches, and fenced livestock areas on the firmer 
 - Dwarves: ~20% (heavily concentrated in the mines and the [[Commons' Assembly]])
 - Half-orcs and orcs: ~10%
 - Halflings: ~7%
-- Gnomes: ~5% (disproportionately represented among [[Glasswrights' Covenant|Glasswright]] apprentices)
+- Gnomes: ~5% (disproportionately represented among [[Glasswrights’ Covenant|Glasswright]] apprentices)
 - Half-elves: ~4%
 - Elves (mostly marsh-dwelling): ~2%
 - Other ancestries: ~2%
@@ -188,7 +188,7 @@ Refugees from the north pass through Redmarsh in modest numbers — far fewer th
 
 Redmarsh sits at a precarious convergence of pressures:
 
-- **Mining is pushing into seams the [[Glasswrights' Covenant|Glasswrights]] cannot fully predict.** Subsidence warnings, rising injuries, and the slow spread of gob fires beneath the ridge all point toward an eventual reckoning.
+- **Mining is pushing into seams the [[Glasswrights’ Covenant|Glasswrights]] cannot fully predict.** Subsidence warnings, rising injuries, and the slow spread of gob fires beneath the ridge all point toward an eventual reckoning.
 - **[[Wondrous Coal]] extraction outpaces stabilisation capacity.** The Yard is working at its limits; backlogs of unstabilised material are stored under conditions [[Liran Dovetail]] privately considers unsafe.
 - **[[Ephraim Gauge|Gauge's]] authority depends on emergency powers that should have lapsed years ago.** A single public scandal — the **Black Book**, the **Deed Codicil**, a tunnel collapse with too many witnesses — could unravel his standing rapidly.
 - **The [[Commons' Assembly]] is asking better questions.** [[Marta Goodwin|Goodwin's]] insistence on duplicate records and traceable disposal procedures is, very slowly, narrowing the space in which the [[Wondrous Coal]] secret can survive.
