@@ -3,7 +3,7 @@
 **Population:** ~2,000  
 **Primary Industry:** Coal mining, [[Wondrous Coal]] extraction  
 **Notable Figures:** [[Ephraim Gauge]], [[Marta Goodwin]], [[Master Sola Meinh]]  
-**Associated Factions:** [[Commons' Assembly]], [[Glasswrights' Covenant]]
+**Associated Factions:** [[Commons’ Assembly]], [[Glasswrights' Covenant]]
 
 #### **Overview**
 
