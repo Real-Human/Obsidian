@@ -2,7 +2,7 @@
 
 #### **Overview**
 
-The **Commons' Assembly** is the elected civil council of [[Redmarsh]], representing the town's mining wards, trades, river workers, and the surrounding marshland villages. It is the only body in [[Redmarsh]] that draws its authority directly from the public, and the only institution still capable, in principle, of questioning the mayor.
+The **Commons Assembly** is the elected civil council of [[Redmarsh]], representing the town's mining wards, trades, river workers, and the surrounding marshland villages. It is the only body in [[Redmarsh]] that draws its authority directly from the public, and the only institution still capable, in principle, of questioning the mayor.
 
 In practice, that capability is being eroded session by session.
 
@@ -141,7 +141,7 @@ The Assembly does not know that the instability is the presence of [[Wondrous Co
 
 [[Ephraim Gauge|Gauge]] reports the careful destruction of unstable mineral refuse drawn from the deeper shafts. The Assembly regards this as sensible. They have asked for inspection rights once and been politely refused; they have not yet pressed the point. A delegate who did press it would be raising the most dangerous question in [[Redmarsh]] without realising what they were asking.
 
-##### **The Glasswrights' Expanding Role**
+##### **The Glasswrights Expanding Role**
 
 The [[Glasswrights Covenant|Glasswrights]]' contracts for safe-lamps, ventilators, and winding engines have grown substantially. The Assembly views this as a sensible response to mining hazards. Mild concern has been raised about the guild's privileged access to mine sites and the unusual frequency of closed-door meetings between [[Master Sola Meinh]] and the mayor's office. Nothing has come of these concerns.
 
