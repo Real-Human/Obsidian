@@ -54,13 +54,13 @@ Redmarsh's two centres of power sit a few hundred yards apart and operate on ent
 
 ##### **The Mayor's Office**
 
-Authority on paper — and increasingly in practice — flows from [[Ephraim Gauge]], who holds the mayoralty under standing _emergency decree_. He is not noble, not elected, and not formally accountable to the [[Commons' Assembly]]; his powers were granted as a temporary measure to stabilise output after a flood year, and have never been rescinded.
+Authority on paper — and increasingly in practice — flows from [[Ephraim Gauge]], who holds the mayoralty under standing _emergency decree_. He is not noble, not elected, and not formally accountable to the [[Commons Assembly]]; his powers were granted as a temporary measure to stabilise output after a flood year, and have never been rescinded.
 
 [[Ephraim Gauge|Gauge]] governs through paperwork rather than presence. Permits, ledgers, and stamped letters of passage do most of his enforcement; private watchmen and quietly retained "escort details" handle the rest. He attends Assembly sessions when required, presents polished figures, and leaves before the difficult questions are asked.
 
-##### **The Commons' Assembly**
+##### **The Commons Assembly**
 
-Public governance — and what survives of meaningful oversight — runs through the [[Commons' Assembly]], chaired by **[[Marta Goodwin]]**. The Assembly handles labour standards, mine charters, taxation, and local infrastructure, and remains the only body in Redmarsh capable of publicly questioning the mayor.
+Public governance — and what survives of meaningful oversight — runs through the [[Commons Assembly]], chaired by **[[Marta Goodwin]]**. The Assembly handles labour standards, mine charters, taxation, and local infrastructure, and remains the only body in Redmarsh capable of publicly questioning the mayor.
 
 [[Marta Goodwin|Goodwin's]] steady, evidence-driven approach has kept the Assembly functional through a period when many such bodies elsewhere in the duchy have been overshadowed or dissolved by emergency authority. She is one of the few figures in town that [[Ephraim Gauge|Gauge]] cannot easily out-manoeuvre.
 
@@ -113,7 +113,7 @@ The town's eastern flank, facing the wilds, is essentially undefended. Few in Re
 
 ##### **Town Square**
 
-The Town Square sits at the highest point of the ridge: a packed, muddy intersection where market stalls, civic notices, and townsfolk converge. Most market trade happens here — preserved foods, lamp-glass, miners' supplies, modest tools — and most rumours pass through. Notices from [[Ephraim Gauge|Gauge's]] office and the [[Commons' Assembly]] are posted on the same board, though Assembly notices come down considerably faster than the mayor's.
+The Town Square sits at the highest point of the ridge: a packed, muddy intersection where market stalls, civic notices, and townsfolk converge. Most market trade happens here — preserved foods, lamp-glass, miners' supplies, modest tools — and most rumours pass through. Notices from [[Ephraim Gauge|Gauge's]] office and the [[Commons Assembly]] are posted on the same board, though Assembly notices come down considerably faster than the mayor's.
 
 For visitors, the Town Square is the most reliable place in Redmarsh to overhear local news, find day-work, or simply be seen.
 
