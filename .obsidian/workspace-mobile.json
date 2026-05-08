@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IY5612_Condensed_Guide.md",
+                "file": "IY5612_Complete_Revision_Guide.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IY5612_Condensed_Guide"
+              "title": "IY5612_Complete_Revision_Guide"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "58e4c4b79d3f8519",
   "lastOpenFiles": [
-    "IY5612_Complete_Revision_Guide.md",
     "IY5612_Condensed_Guide.md",
+    "IY5612_Complete_Revision_Guide.md",
     "Redmarsh.md",
     "Untitled",
     "Glasswrights’ Covenant.md",
