@@ -868,16 +868,17 @@ The most benign system class. Time-varying systems have parameters changing over
 
 ## 6.2 ICS components
 
-| Component | Role |
-|---|---|
-| **PLC** (Programmable Logic Controller) | Real-time controller in the field (ladder logic, structured text). |
-| **RTU** (Remote Terminal Unit) | Like PLC but for remote/telemetry use; often serial-link first. |
-| **HMI** (Human-Machine Interface) | Operator's view; usually Windows; primary lateral-movement target. |
-| **SCADA server** | Aggregates HMIs, historians, alarms; often runs on commercial OS. |
-| **Historian** | Time-series database of process variables. |
-| **Engineering Workstation** | Where PLC programs are developed and downloaded. Primary supply-chain target. |
-| **DCS** (Distributed Control System) | Functionally similar but designed for tightly integrated process control (refineries, power plants); blurred with SCADA over time. |
-| **Safety Instrumented System (SIS)** | Independent safety layer (Triton case study). |
+| Component                               | Role                                                                                                                               |
+| --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| **PLC** (Programmable Logic Controller) | Real-time controller in the field (ladder logic, structured text).                                                                 |
+| **RTU** (Remote Terminal Unit)          | Like PLC but for remote/telemetry use; often serial-link first.                                                                    |
+| **HMI** (Human-Machine Interface)       | Operator's view; usually Windows; primary lateral-movement target.                                                                 |
+| **SCADA server**                        | Aggregates HMIs, historians, alarms; often runs on commercial OS.                                                                  |
+| **Historian**                           | Time-series database of process variables.                                                                                         |
+| **Engineering Workstation**             | Where PLC programs are developed and downloaded. Primary supply-chain target.                                                      |
+| **DCS** (Distributed Control System)    | Functionally similar but designed for tightly integrated process control (refineries, power plants); blurred with SCADA over time. |
+| **Safety Instrumented System (SIS)**    | Independent safety layer (Triton case study).                                                                                      |
+|                                         |                                                                                                                                    |
 
 ### IEC 61131 / IEC 61499
 - **IEC 61131** — standard for PLC programming languages (Ladder Logic, Structured Text, etc.).
