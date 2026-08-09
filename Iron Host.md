@@ -1,4 +1,8 @@
-**Type:** Foreign military power **Endonym:** Thurun-Kadresh-Ai **Leader:** Oskuresh **Territory:** The northern kingdoms, conquered; northern passes held **Status:** Not at war with [[Duchy of Marlowe-Helwing|Marlowe-Helwing]]. Not at peace.
+**Type:** Foreign military power 
+**Endonym:** Thurun-Kadresh-Ai 
+**Leader:** [[Oskuresh]]
+**Territory:** The northern kingdoms, conquered; northern passes held 
+**Status:** Not at war with [[Duchy of Marlowe-Helwing|Marlowe-Helwing]]. Not at peace.
 
 #### **Overview**
 
@@ -201,11 +205,11 @@ This depends on the undecided question of what the eastern sea is, and should be
 
 #### **What the Duchy Believes**
 
-| Belief                                                             | Reality                                                        |
-| ------------------------------------------------------------------ | -------------------------------------------------------------- |
-| The mountains make invasion impractical                            | One gap, and it is enough                                      |
-| No declaration means no war is intended                            | There will be no declaration until the column is moving        |
-| The banditry is unrelated opportunism                              | It is the same war, arriving early                             |
-| They are a horde                                                   | They are the most disciplined heavy infantry on the continent  |
-| Their courtesy at parley is a deception                            | It is the only sincere thing about them                        |
-| [[Ephraim Gauge]] is exaggerating the threat to justify his powers | He is the only person at any level of authority who is correct |
+|Belief|Reality|
+|---|---|
+|The mountains make invasion impractical|One gap, and it is enough|
+|No declaration means no war is intended|There will be no declaration until the column is moving|
+|The banditry is unrelated opportunism|It is the same war, arriving early|
+|They are a horde|They are the most disciplined heavy infantry on the continent|
+|Their courtesy at parley is a deception|It is the only sincere thing about them|
+|[[Ephraim Gauge]] is exaggerating the threat to justify his powers|He is the only person at any level of authority who is correct|
