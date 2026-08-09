@@ -95,8 +95,6 @@ He has never publicly disavowed any of it. Doing so would admit he does not comm
 
 ##### **Strength, and why the ratio is not the point**
 
-_(Proposed — flagged for approval.)_
-
 Some **18,000–22,000** under arms in the north, of which perhaps **12,000–15,000** can be brought south while holding conquered territory.
 
 This is deliberately thin. Against fortifications a commander would want three to one; Oskuresh has closer to one and a half, and only if the duchy concentrates. He is not marching because the odds are good. He is marching because he has no choice, and the arithmetic should reflect that.
