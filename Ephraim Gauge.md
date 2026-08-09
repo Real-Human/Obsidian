@@ -27,7 +27,7 @@ Yet beneath the cruelty lies meticulous fear — not of uprising, but of invasio
 
 #### Relations with court and town
 
-**Gauge** flatters [[Prince Corvin]], feeds the court pageants with coal money, and sends neat reports whose totals always shine. With the ageing [[Duke Edrin]], he is careful—never lying outright, always wrapping decrees in talk of veterans’ stipends and safe roads. In [[Redmarsh]], he treats [[Marta Goodwin]] and the Commons’ Assembly with public civility and private smears, working to split idealists from pragmatists. He courts the [[Glasswrights Covenant]] for their ventilators, safe-lamps and winding engines, but only on his timetable; he admires [[Master Sola Meinh’s]] mind while quietly encouraging **Aria “Spark” Vell** to take risks that serve his quotas.
+**Gauge** flatters [[Prince Corvin]], feeds the court pageants with coal money, and sends neat reports whose totals always shine. With the ageing [[Duke Edrin]], he is careful—never lying outright, always wrapping decrees in talk of veterans’ stipends and safe roads. In [[Redmarsh]], he treats [[Marta Goodwin]] and the Commons’ Assembly with public civility and private smears, working to split idealists from pragmatists. He courts the [[Glasswrights Covenant]] for their ventilators, safe-lamps and winding engines, but only on his timetable; he admires Master [[Sola Meinh]]'s mind while quietly encouraging **Aria “Spark” Vell** to take risks that serve his quotas.
 
 #### The coal years
 

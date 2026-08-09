@@ -46,7 +46,7 @@ The duchy’s northern boundary is defined by broken highlands and narrow passes
 **Seat of the Duke**
 
 - **Population:** ~5,000
-- **Geographical Position:** [[Western ridges]], south of [[Highford]], overlooking the old stone road into the inner duchies
+- **Geographical Position:** [[Western Ridges]], south of [[Highford]], overlooking the old stone road into the inner duchies
 - **Role:** Ducal residence, high courts, archives, noble estates
 - **Notes:** Built on defensible high ground, [[Helwing Hold]] commands road access rather than river trade. Its separation from [[Highford]] reflects an older model of rule, where authority was projected outward rather than embedded in commerce.
 
