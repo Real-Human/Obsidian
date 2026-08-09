@@ -17,7 +17,7 @@ They pursue:
 - arcane engines
 - magically resonant glass matrices
 - stabilised magical fuels
-- mechanised spell-channeling systems
+- mechanised spell-channelling systems
 
 This puts them at odds with traditional mages, who view their work as unpredictable, unsafe, or philosophically misguided.
 
