@@ -1,7 +1,7 @@
 
 **Region:** [[Fenward Marches]]  
 **Duchy:** [[Duchy of Marlowe-Helwing]]  
-**Population:** ~2,000  
+**Population:** ~2,000 by the town roll; nearer 4,800 in fact
 **Primary Industry:** Coal mining, [[Wondrous Coal]] extraction 
 **Notable Figures:** [[Ephraim Gauge]], [[Marta Goodwin]], [[Master Sola Meinh]]
 **Associated Factions:** [[Commons Assembly]], [[Glasswrights Covenant]]
@@ -14,6 +14,24 @@ The town is shaped by industry: pitheads, workshops, timber barracks, and rail-l
 
 Since the rise of **[[Ephraim Gauge]]** to the mayoralty under _emergency powers_, Redmarsh has undergone rapid expansion and increasingly strict oversight. Coal output has surged, new infrastructure has been driven across the ridge, and pressure on both workers and civic institutions has grown. The result is a town both thriving and strained, its prosperity shadowed by growing tensions beneath the fog of the fens.
 
+#### **Population and the Roll**
+
+The town roll records some two thousand souls on the ridge: the
+square, the chapel, the older terraces, the households with a
+trade and a name that has been in Redmarsh longer than the pit. It is the figure the mayor's office returns to [[Helwing Hold]], and it has not moved appreciably in six years.
+
+The town has. Beyond the roll are the company terraces, the
+pithead camps on the western cut, the crate-yards and contract
+houses of the Dockside Quarter, and the satellite workings
+strung out along the fen edge — bonded families, seasonal
+haulers, refugees down from the north, and men who arrived on a
+barge and never gave a surname. Nobody has counted them. Those
+who have tried, informally, put the true figure nearer five
+thousand.
+
+The gap is not an oversight. Levy, garrison obligation and
+ducal scrutiny all scale with recorded population, and
+[[Ephraim Gauge]] has never seen advantage in being large.
 #### **Government and Politics**
 
 ##### Ephraim Gauge
