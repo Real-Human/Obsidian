@@ -27,7 +27,7 @@ A single war-leader acts as _first among equals_, coordinating strategy, mediati
 
 Unlike most forces, the Displaced Companies are organised by **where they came from**, not how they fight. Each company preserves fragments of its former army’s culture, doctrine, and grievances.
 
-##### **The Gray Banner Remnants**
+##### **The Grey Banner Remnants**
 
 **Formerly:** Allied Armies of the Northern March Kingdoms  
 **Estimated Strength:** ~180
