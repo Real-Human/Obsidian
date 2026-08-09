@@ -30,6 +30,7 @@ The climate is damp and cool year-round, with sudden fogs and long, wet winters 
 
 Settlement clusters follow the ridgelines and major waterways. Notable communities include:
 
+- **[[Brackenmere]]** – A large but stagnating town on the northern fringe, slowly losing ground to the marsh.
 - **[[Redmarsh]]** – The region’s primary mining and industrial centre.
 - **Kelter’s Ford** – A ferry crossing and seasonal market town.
 - **Brinefell** – A fishing settlement on the fringe between fen and river.
