@@ -1,11 +1,11 @@
 **Species:** Dwarf  
-**Occupation:** Speaker of the [[Commons’ Assembly]] ([[Redmarsh]])  
-**Affiliation:** [[Redmarsh]] [[Commons’ Assembly]]  
+**Occupation:** Speaker of the [[Commons Assembly]] ([[Redmarsh]])  
+**Affiliation:** [[Redmarsh]] [[Commons Assembly]]  
 **Status:** Active
 
 #### **Overview**
 
-Marta Goodwin is a **dwarven Speaker of the [[Commons’ Assembly]]**, renowned in [[Redmarsh]] for her steadiness, sharp pragmatism, and fierce loyalty to the town’s working folk. In a community bound to coal seams, river trade, and marshland hardship, her dwarven heritage makes her a natural fit for representing miners, labourers, and families whose livelihoods depend on the land.
+Marta Goodwin is a **dwarven Speaker of the [[Commons Assembly]]**, renowned in [[Redmarsh]] for her steadiness, sharp pragmatism, and fierce loyalty to the town’s working folk. In a community bound to coal seams, river trade, and marshland hardship, her dwarven heritage makes her a natural fit for representing miners, labourers, and families whose livelihoods depend on the land.
 
 Calm under pressure and resolute in purpose, Marta is one of the few political figures in [[Redmarsh]] still trusted broadly despite the rising influence of [[Ephraim Gauge]].
 
@@ -64,7 +64,7 @@ Her calm handling of the crisis impressed many locals.
 
 ##### **Rise in the Commons’ Assembly**
 
-After remaining in [[Redmarsh]], she continued to mediate disputes—initially among dockworkers and miners—leading the Dockside Quarter to nominate her as their [[Commons’ Assembly|Assembly]] delegate.  
+After remaining in [[Redmarsh]], she continued to mediate disputes—initially among dockworkers and miners—leading the Dockside Quarter to nominate her as their [[Commons Assembly|Assembly]] delegate.  
 Her caravan experience made her:
 
 - good at balancing competing interests,
@@ -82,13 +82,13 @@ As Speaker, she:
 - Chairs debates and ensures quieter delegates are not overrun by ambitious voices.
 - Conducts negotiations with [[Ephraim Gauge|Gauge]]’s Hall, often acting as a protective buffer for the public.  
 - Drives initiatives focused on miner safety, fair pay, and transparency around industrial expansion.  
-- Pushes the [[Commons’ Assembly|Assembly]] toward practical, consensus-driven solutions rather than political posturing.  
+- Pushes the [[Commons Assembly|Assembly]] toward practical, consensus-driven solutions rather than political posturing.  
 
 While she rarely challenges [[Ephraim Gauge|Gauge]] directly, she is one of the few who can match his resolve—and he knows it.
 
 #### **Political Stance and Behaviour**
 
-Marta commonly aligns with the [[Commons’ Assembly|Assembly]]’s public-welfare-focused members.  
+Marta commonly aligns with the [[Commons Assembly|Assembly]]’s public-welfare-focused members.  
 Her motivations centre on:
 
 - Protecting miners and river workers from exploitation
@@ -107,4 +107,4 @@ She distrusts secretiveness for its own sake and is quietly determined to uncove
 - A dependable voice in unstable times  
 - Someone who understands both the mines and the marshes  
 
-To miners, her dwarven nature makes her feel like “one of their own”; to the rivermen, she is a steady hand; to the [[Commons’ Assembly|Assembly]], she is the anchor that keeps the chamber from drifting into chaos.
+To miners, her dwarven nature makes her feel like “one of their own”; to the rivermen, she is a steady hand; to the [[Commons Assembly|Assembly]], she is the anchor that keeps the chamber from drifting into chaos.

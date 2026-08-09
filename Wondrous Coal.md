@@ -1,4 +1,4 @@
-**Wondrous Coal**, often called **witchfire coal** or simply **bad coal**, is an exceptionally rare and volatile magical mineral found in deep coal seams. Glowing with a cold, unwavering white light and possessing remarkable arcane potential, it is both feared and coveted across the region. Though long dismissed as too unstable to be useful, it has recently become the centre of intense study by the **[[Glasswrights’ Covenant|Glasswrights]]**, a small but visionary guild based primarily in **[[Redmarsh]]**.
+**Wondrous Coal**, often called **witchfire coal** or simply **bad coal**, is an exceptionally rare and volatile magical mineral found in deep coal seams. Glowing with a cold, unwavering white light and possessing remarkable arcane potential, it is both feared and coveted across the region. Though long dismissed as too unstable to be useful, it has recently become the centre of intense study by the **[[Glasswrights Covenant|Glasswrights]]**, a small but visionary guild based primarily in **[[Redmarsh]]**.
 
 #### **Appearance**
 
@@ -40,7 +40,7 @@ As a result:
 
 #### **Recent Interest**
 
-Only recently has Wondrous Coal begun to attract attention, primarily due to **new stabilisation techniques** discovered by the [[Glasswrights’ Covenant]]. These techniques are capable of rendering the coal significantly safer to handle, allowing it to be exposed to air without triggering its usual volatile reactions.
+Only recently has Wondrous Coal begun to attract attention, primarily due to **new stabilisation techniques** discovered by the [[Glasswrights Covenant]]. These techniques are capable of rendering the coal significantly safer to handle, allowing it to be exposed to air without triggering its usual volatile reactions.
 
 This breakthrough has opened the door—cautiously—to further study and the possibility of new applications.
 
@@ -58,7 +58,7 @@ Traditional arcane practice already offered stable cores, gemstones, and enchant
 
 #### **The Glasswrights: Pioneers of the Impossible**
 
-The **[[Glasswrights’ Covenant|Glasswrights]]**, a small but visionary guild present mainly in Redmarsh, are the **first to truly pursue Wondrous Coal’s potential**. While others dismissed it, they saw possibility—and meaning—where others saw only hazard.
+The **[[Glasswrights Covenant|Glasswrights]]**, a small but visionary guild present mainly in Redmarsh, are the **first to truly pursue Wondrous Coal’s potential**. While others dismissed it, they saw possibility—and meaning—where others saw only hazard.
 
 The Glasswrights firmly believe:
 

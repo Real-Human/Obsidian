@@ -4,7 +4,7 @@
 **Population:** ~2,000  
 **Primary Industry:** Coal mining, [[Wondrous Coal]] extraction 
 **Notable Figures:** [[Ephraim Gauge]], [[Marta Goodwin]], [[Master Sola Meinh]]
-**Associated Factions:** [[Commons’ Assembly]], [[Glasswrights’ Covenant]]
+**Associated Factions:** [[Commons Assembly]], [[Glasswrights Covenant]]
 
 #### **Overview**
 
@@ -25,11 +25,11 @@ Gauge insists his policies are essential for [[Redmarsh]]’s security and prosp
 
 ##### Marta Goodwin
 
-[[Commons’ Assembly|The Assembly]] is currently chaired by **[[Marta Goodwin]]**, a former caravan steward whose reputation for fairness and clarity earned her broad support. She approaches governance with steady pragmatism and relies on transparent accounting and open deliberation.
+[[Commons Assembly|The Assembly]] is currently chaired by **[[Marta Goodwin]]**, a former caravan steward whose reputation for fairness and clarity earned her broad support. She approaches governance with steady pragmatism and relies on transparent accounting and open deliberation.
 
 [[Marta Goodwin|Goodwin]] is one of the few public figures who can challenge [[Ephraim Gauge|Gauge]] without resorting to theatrics or confrontation. She meets his proposals with patient scrutiny rather than defiance, which has earned her both respect and quiet resistance. While [[Ephraim Gauge|Gauge]] frames his demands as necessities, [[Marta Goodwin|Goodwin]] champions measured growth, worker safety, and public accountability.
 
-Under her leadership, [[Commons’ Assembly|the Assembly]] has become more organised, even as it faces increasing political pressure.
+Under her leadership, [[Commons Assembly|the Assembly]] has become more organised, even as it faces increasing political pressure.
 
 #### **Industry and Technology**
 
@@ -37,19 +37,19 @@ Under her leadership, [[Commons’ Assembly|the Assembly]] has become more organ
 
 Nearly all of [[Redmarsh]]’s wealth—and danger—comes from its mines. The upper seams yield ordinary coal, long exported to the duchy’s forges and kilns. The lower reaches, however, hide pockets of **[[Wondrous Coal]]**, a luminous mineral that destabilises easily when improperly handled.
 
-Historically considered a curse more than a resource, [[Wondrous Coal]] only became viable after recent breakthroughs by the **[[Glasswrights’ Covenant]]**, who discovered methods of stabilising and harnessing its energy.
+Historically considered a curse more than a resource, [[Wondrous Coal]] only became viable after recent breakthroughs by the **[[Glasswrights Covenant]]**, who discovered methods of stabilising and harnessing its energy.
 
-The benefits and value of [[Wondrous Coal]] however are kept hidden, known only the [[Glasswrights’ Covenant|Glasswrights]], [[Ephraim Gauge|Gauge]] and a few select associates.
+The benefits and value of [[Wondrous Coal]] however are kept hidden, known only the [[Glasswrights Covenant|Glasswrights]], [[Ephraim Gauge|Gauge]] and a few select associates.
 
 ##### The Glasswrights’ Covenant
 
-The **[[Glasswrights’ Covenant|Glasswrights]] are an artificer guild specialising in engineered magic, glasscraft, and experimental devices powered by rare materials. Since relocating to Redmarsh, they have produced innovations vital to mining: stabilised safe-lamps, deep-ventilation systems, and compact winding engines.
+The **[[Glasswrights Covenant|Glasswrights]] are an artificer guild specialising in engineered magic, glasscraft, and experimental devices powered by rare materials. Since relocating to Redmarsh, they have produced innovations vital to mining: stabilised safe-lamps, deep-ventilation systems, and compact winding engines.
 
 The guild’s internal dynamics are a source of speculation.  
 **[[Master Sola Meinh]]**, its founder, is widely admired for brilliance paired with stark pragmatism.  
 **[[Aria “Spark” Vell]]**, a daring prodigy within the guild, is known to test boundaries—sometimes beyond what the mines’ overseers consider sensible.
 
-[[Ephraim Gauge|Gauge]] maintains a careful partnership with the [[Glasswrights’ Covenant|Glasswrights]], valuing their output while nudging their research toward his expanding extraction plans.
+[[Ephraim Gauge|Gauge]] maintains a careful partnership with the [[Glasswrights Covenant|Glasswrights]], valuing their output while nudging their research toward his expanding extraction plans.
 
 ##### Current Tensions
 
@@ -58,8 +58,8 @@ Redmarsh sits at a precarious point:
 - Mining grows ever deeper into unstable seams.
 - [[Wondrous Coal]] extraction outpaces the town’s ability to manage its risks. 
 - [[Ephraim Gauge|Gauge]] pushes production to prepare for uncertain threats.
-- The [[Commons’ Assembly]] struggles to maintain transparency and safety amid political strain.
-- The [[Glasswrights’ Covenant|Glasswrights]] continue to innovate in ways that promise progress but carry unknown consequences.
+- The [[Commons Assembly]] struggles to maintain transparency and safety amid political strain.
+- The [[Glasswrights Covenant|Glasswrights]] continue to innovate in ways that promise progress but carry unknown consequences.
 
 Despite its small population, Redmarsh has become a focal point of industry, ambition, and quietly growing unease.
 
@@ -67,14 +67,14 @@ Despite its small population, Redmarsh has become a focal point of industry, amb
 
 ##### **Town Square**
 
-The Town Square is the heart of Redmarsh: a packed, muddy intersection of trade, gossip, and community life. Market stalls crowd the open ground, carrying preserved food, tools, lamp-glass, and miners’ supplies. Notices from the mayor’s office and the [[Commons’ Assembly]] are posted here, though the [[Commons’ Assembly|Assembly]]’s messages often disappear faster than [[Ephraim Gauge|Gauge]]’s.  
+The Town Square is the heart of Redmarsh: a packed, muddy intersection of trade, gossip, and community life. Market stalls crowd the open ground, carrying preserved food, tools, lamp-glass, and miners’ supplies. Notices from the mayor’s office and the [[Commons Assembly]] are posted here, though the [[Commons Assembly|Assembly]]’s messages often disappear faster than [[Ephraim Gauge|Gauge]]’s.  
 Travellers, carters, and miners gather here before shifts, making it the most reliable place in town to overhear rumours, resolve disputes, or find a job no one else wants.
 
 ##### **Gauge’s Hall (Mayor’s Office)**
 
 A reinforced administrative hall overlooking the square, this is the seat of **[[Ephraim Gauge]]’s** emergency authority. Clerks work constantly inside: updating ledgers, preparing reports, and drafting new work decrees.  
-[[Ephraim Gauge||Gauge]] keeps the building outwardly modest, but its interior houses improved security, sealed archives, and a private meeting room where he receives [[Glasswrights’ Covenant|Glasswrights]]’ representatives.  
-Delegates from the [[Commons’ Assembly]] come here reluctantly — sessions with [[Ephraim Gauge||Gauge]] are often tense.
+[[Ephraim Gauge||Gauge]] keeps the building outwardly modest, but its interior houses improved security, sealed archives, and a private meeting room where he receives [[Glasswrights Covenant|Glasswrights]]’ representatives.  
+Delegates from the [[Commons Assembly]] come here reluctantly — sessions with [[Ephraim Gauge||Gauge]] are often tense.
 
 ##### **Assembly Chambers**
 
@@ -83,7 +83,7 @@ Arguments here are loud, direct, and usually interrupted by miners banging on th
 
 ##### **The Glasswrights’ Yard (Workshop Enclave)**
 
-Located just south-east of the central settlement, this cluster of angular workshops and test-yards belongs to the **[[Glasswrights’ Covenant]]**.  
+Located just south-east of the central settlement, this cluster of angular workshops and test-yards belongs to the **[[Glasswrights Covenant]]**.  
 The Yard produces:
 
 - stabilised safe-lamps
@@ -108,7 +108,7 @@ Workers come here to dispute shifts, request compensation, or — more often —
 ##### **River Barge Docks**
 
 The timbered docks beneath the mine are essential to Redmarsh’s output. Barges carry coal downstream to larger trade arteries.  
-The docks operate day and night, lit by the [[Glasswrights’ Covenant|Glasswrights]]’ safe-lamps.  
+The docks operate day and night, lit by the [[Glasswrights Covenant|Glasswrights]]’ safe-lamps.  
 
 ##### **Ironbridge (Local Term)**
 
@@ -153,7 +153,7 @@ Redmarsh’s economy is driven by:
 
 - **Coal Mining:**  
     The primary industry. Production has increased rapidly under [[Ephraim Gauge|Mayor Gauge]]'s direction. Mine entrances sit on the ridge’s stable ground, tunnelling downward toward deeper coal seams.  
-    _Unknown to the public_, fragments of rare [[Wondrous Coal]] are secretly transferred to the [[Glasswrights’ Covenant|Glasswrights]] rather than discarded.
+    _Unknown to the public_, fragments of rare [[Wondrous Coal]] are secretly transferred to the [[Glasswrights Covenant|Glasswrights]] rather than discarded.
 - **Barge Transport:**  
     The river cut allows for robust barge trade, shipping coal downstream and bringing in timber, grain, and tools.
 - **Craft and Repair Trades:**  

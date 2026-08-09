@@ -6,7 +6,7 @@
 
 #### **Overview**
 
-The **Commons’ Assembly** serves as [[Redmarsh]]’s civilian governing body, representing workers, local guilds, and surrounding villages. It traditionally holds authority over labour standards, mine charters, taxation, and local infrastructure.
+The **Commons Assembly** serves as [[Redmarsh]]’s civilian governing body, representing workers, local guilds, and surrounding villages. It traditionally holds authority over labour standards, mine charters, taxation, and local infrastructure.
 
 In recent years, as [[Redmarsh]]’s mining operations have expanded under **[[Ephraim Gauge]]**, the Assembly has found itself increasingly strained. It remains the only public institution capable of questioning the pace, safety, and administration of the town’s industrial growth.
 
@@ -35,15 +35,15 @@ Her diligence has helped the Assembly remain functional in a climate where many 
 
 [[Ephraim Gauge|Gauge]] appears in Assembly sessions when required, presenting detailed production figures and reports crafted to withstand scrutiny. However, the information he shares is selective by design.
 
-He allows the Assembly to believe that the unstable, glowing fragments found in deeper seams are **dangerous waste material**, collected and discreetly destroyed. In truth, these deposits are the prized **[[Wondrous Coal]]**, which he quietly transfers to the **[[Glasswrights’ Covenant]]** for stabilisation and experimentation.
+He allows the Assembly to believe that the unstable, glowing fragments found in deeper seams are **dangerous waste material**, collected and discreetly destroyed. In truth, these deposits are the prized **[[Wondrous Coal]]**, which he quietly transfers to the **[[Glasswrights Covenant]]** for stabilisation and experimentation.
 
-Only [[Ephraim Gauge|Gauge]], the [[Glasswrights’ Covenant|Glasswrights]], and a handful of trusted mine overseers know the truth. Most miners think the material is too hazardous to store and must be destroyed; the Assembly has accepted this explanation without yet seeing cause for suspicion.
+Only [[Ephraim Gauge|Gauge]], the [[Glasswrights Covenant|Glasswrights]], and a handful of trusted mine overseers know the truth. Most miners think the material is too hazardous to store and must be destroyed; the Assembly has accepted this explanation without yet seeing cause for suspicion.
 
 This secrecy allows [[Ephraim Gauge|Gauge]] to justify:
 
 - increased security around certain tunnels,
 - restricted reporting from deeper shafts,
-- and unusual levels of collaboration with the [[Glasswrights’ Covenant|Glasswrights]].
+- and unusual levels of collaboration with the [[Glasswrights Covenant|Glasswrights]].
 
 For now, the Assembly attributes these measures to safety concerns rather than hidden commerce.
 
@@ -63,7 +63,7 @@ Unbeknownst to them, this “refuse” is the source of [[Redmarsh]]’s growing
 
 ##### **3. Oversight of the Glasswrights’ Covenant**
 
-The [[Glasswrights’ Covenant|Glasswrights]]’ expanding role in mine safety equipment has prompted mild concern.  
+The [[Glasswrights Covenant|Glasswrights]]’ expanding role in mine safety equipment has prompted mild concern.  
 Their contract work appears innocuous: ventilators, safe-lamps, winding engines.  
 Nothing in the Assembly’s view points toward the deeper partnership hidden behind closed doors.
 

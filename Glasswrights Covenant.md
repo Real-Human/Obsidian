@@ -104,7 +104,7 @@ The Glasswrights provide **[[Ephraim Gauge]]** with several key artificer-made d
 - safe-lamps resistant to volatile gases
 - winding engines for heavy lifting and tunnel work
 
-[[Ephraim Gauge| Gauge]] values their expertise and sees strategic potential in their inventions—especially with the War Troll threat looming.
+[[Ephraim Gauge|Gauge]] values their expertise and sees strategic potential in their inventions—especially with the [[Iron Host]] threat looming.
 
 It is _uncertain_, but increasingly suspected, that Gauge hopes to commission the guild for:
 
