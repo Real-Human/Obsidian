@@ -16,22 +16,11 @@ Since the rise of **[[Ephraim Gauge]]** to the mayoralty under _emergency powers
 
 #### **Population and the Roll**
 
-The town roll records some two thousand souls on the ridge: the
-square, the chapel, the older terraces, the households with a
-trade and a name that has been in Redmarsh longer than the pit. It is the figure the mayor's office returns to [[Helwing Hold]], and it has not moved appreciably in six years.
+The town roll records some two thousand souls on the ridge: the square, the chapel, the older terraces, the households with a trade and a name that has been in Redmarsh longer than the pit. It is the figure the mayor's office returns to [[Helwing Hold]], and it has not moved appreciably in six years.
 
-The town has. Beyond the roll are the company terraces, the
-pithead camps on the western cut, the crate-yards and contract
-houses of the Dockside Quarter, and the satellite workings
-strung out along the fen edge — bonded families, seasonal
-haulers, refugees down from the north, and men who arrived on a
-barge and never gave a surname. Nobody has counted them. Those
-who have tried, informally, put the true figure nearer five
-thousand.
+The town has. Beyond the roll are the company terraces, the pithead camps on the western cut, the crate-yards and contract houses of the Dockside Quarter, and the satellite workings strung out along the fen edge — bonded families, seasonal haulers, refugees down from the north, and men who arrived on a barge and never gave a surname. Nobody has counted them. Those who have tried, informally, put the true figure nearer five thousand.
 
-The gap is not an oversight. Levy, garrison obligation and
-ducal scrutiny all scale with recorded population, and
-[[Ephraim Gauge]] has never seen advantage in being large.
+The gap is not an oversight. Levy, garrison obligation and ducal scrutiny all scale with recorded population, and [[Ephraim Gauge]] has never seen advantage in being large.
 #### **Government and Politics**
 
 ##### Ephraim Gauge

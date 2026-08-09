@@ -56,7 +56,7 @@ The duchy’s northern boundary is defined by broken highlands and narrow passes
 - **Population:** ~2,000
 - **Geographical Position:** Eastern [[Fenward Marches]], on a low ridge where the marsh gives way to stable ground beside a navigable tributary
 - **Role:** Coal extraction, river barging, industrial workshops
-- **Notes:** Redmarsh’s ridge location keeps it above seasonal flooding while allowing direct access to marsh-bound coal seams and river transport. It is the easternmost major settlement under firm ducal control.
+- **Notes:** Redmarsh’s ridge location keeps it above seasonal flooding while allowing direct access to marsh-bound coal seams and river transport. It is the easternmost major settlement under firm ducal control. Population is returned by the mayor's office and has never been independently audited.
 
 
 ##### **[[Grayfen Crossing]]**
