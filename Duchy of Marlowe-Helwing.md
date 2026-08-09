@@ -85,7 +85,7 @@ The duchy’s northern boundary is defined by broken highlands and narrow passes
 - **Population:** ~3,500
 - **Geographical Position:** Southern Lowlands, downstream of [[Highford]] along a broad, slow-moving river reach
 - **Role:** River trade, fishing, reed harvesting, barge construction and maintenance
-- **Notes:**  [[Willow Reach]] lies along a gentle bend of the main river where wide banks, soft floodplain soils, and willow stands support river traffic and small-scale shipwork. It acts as a minor port for bulk goods moving southward, particularly grain, timber, and peat from upriver settlements. Its economy is stable rather than strategic, tied closely to seasonal river conditions.
+- **Notes:**  [[Willowreach]] lies along a gentle bend of the main river where wide banks, soft floodplain soils, and willow stands support river traffic and small-scale shipwork. It acts as a minor port for bulk goods moving southward, particularly grain, timber, and peat from upriver settlements. Its economy is stable rather than strategic, tied closely to seasonal river conditions.
 ###### **Villages & Hamlets**
 - **Population:** ~30,000 combined
 - **Geographical Position:** Scattered throughout the Helwing Lowlands and along minor river tributaries

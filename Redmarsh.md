@@ -73,7 +73,7 @@ Travellers, carters, and miners gather here before shifts, making it the most re
 ##### **Gauge’s Hall (Mayor’s Office)**
 
 A reinforced administrative hall overlooking the square, this is the seat of **[[Ephraim Gauge]]’s** emergency authority. Clerks work constantly inside: updating ledgers, preparing reports, and drafting new work decrees.  
-[[Ephraim Gauge||Gauge]] keeps the building outwardly modest, but its interior houses improved security, sealed archives, and a private meeting room where he receives [[Glasswrights Covenant|Glasswrights]]’ representatives.  
+[[Ephraim Gauge|Gauge]] keeps the building outwardly modest, but its interior houses improved security, sealed archives, and a private meeting room where he receives [[Glasswrights Covenant|Glasswrights]]’ representatives.  
 Delegates from the [[Commons Assembly]] come here reluctantly — sessions with [[Ephraim Gauge||Gauge]] are often tense.
 
 ##### **Assembly Chambers**

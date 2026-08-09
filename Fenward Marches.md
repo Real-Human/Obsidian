@@ -22,7 +22,7 @@ Narrow spines of compact earth rising only a few metres above the fen. These pro
 
 ##### **The Eastern Wilds**
 
-A sparsely charted expanse of marshwood, cut banks, and winding river systems. Considered dangerous and poorly monitored, it forms the natural border of the duchy.
+A sparsely charted expanse of marsh wood, cut banks, and winding river systems. Considered dangerous and poorly monitored, it runs inland of the coast, thinning into salt flats and tidal channels before the open water that marks the duchy's true eastern limit.
 
 The climate is damp and cool year-round, with sudden fogs and long, wet winters that test even the hardiest locals.
 
