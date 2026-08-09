@@ -52,9 +52,7 @@ What they were never permitted to be was a country. Employers do not want a nati
 
 #### **Oskuresh**
 
-> _Invented proper noun — flagged for approval. Built from the established morphology; swappable without disturbing anything else on this page._
-
-**Oskuresh** is the commander who ended that. His achievement was not tactical — the Thurun-Kadresh-Ai have always won battles — but political: he was the first to hold enough companies together long enough to take and keep territory, and he did it by refusing every contract offered to him during the two years it took.
+**[[Oskuresh]]** is the commander who ended that. His achievement was not tactical — the Thurun-Kadresh-Ai have always won battles — but political: he was the first to hold enough companies together long enough to take and keep territory, and he did it by refusing every contract offered to him during the two years it took.
 
 He has taken no royal title. In their naming convention a personal name is followed by a service-mark recording the contract one was born under; Oskuresh refused his, and is therefore known by the bare form alone — the same lapsed-function construction the duchy uses without knowing it. He carries the insult in his own name on purpose.
 
