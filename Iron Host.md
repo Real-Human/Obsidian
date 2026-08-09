@@ -40,7 +40,7 @@ They will not correct it. Asking for courtesy is beneath them, so it passes at e
 
 _Ai_ also stands alone. It is the closing word of an oath, the last word of a treaty, and the word cut into a grave marker. When an officer of the Thurun-Kadresh-Ai accepts terms and says _Ai_, that is how binding it is.
 
-Pronunciation: **THOO**-run ka-**DRESH**-eye (/ˈθuː.run kaˈdrɛʃ.aɪ/). Duchy speakers who half-try produce a hard stop before the final syllable — audibly an attempt, audibly not there.
+Pronunciation: **THOO**-run ka-**DRESH**-eye (/ˈθuː.run kaˈdrɛʃ.aɪ/) [PRONUNCIATION](https://ipa-reader.com/?text=%2F%CB%88%CE%B8u%CB%90.run%20ka%CB%88dr%C9%9B%CA%83.a%C9%AA%2F&voice=Filiz). Duchy speakers who half-try produce a hard stop before the final syllable — audibly an attempt, audibly not there.
 
 #### **Origins**
 
